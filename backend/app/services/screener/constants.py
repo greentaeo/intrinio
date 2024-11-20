@@ -1,7 +1,15 @@
 AVAILABLE_METRICS = {
-    "MarketCap": {  # 새로 추가
+    "Risk": {
+        "beta": "베타계수",
+        "volume": "거래량",
+        
+    },
+    "Industry": {  
+        "sic": "산업분류코드"
+    },
+    "MarketCap": {  
         "marketcap": "시가총액",
-        "enterprisevalue": "기업가치"
+        "enterprisevalue": "기업가치",
     },
     "Growth": {
         "revenuegrowth": "매출액 성장률",
