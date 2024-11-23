@@ -1,0 +1,1892 @@
+{
+  "sic_codes": {
+    "29": {
+      "name": "제조업",
+      "name_en": "Manufacturing",
+      "type": "division",
+      "division_letter": "D",
+      "subcategories": {
+        "2900": {
+          "name": "석유 및 석탄 제품",
+          "name_en": "Petroleum Refining and Related Industries",
+          "type": "major_group",
+          "subcategories": {
+            "2911": {
+              "name": "Petroleum Refining",
+              "type": "industry"
+            }
+          }
+        }
+      }
+    },
+    "32": {
+      "name": "제조업",
+      "name_en": "Manufacturing",
+      "type": "division",
+      "division_letter": "D",
+      "subcategories": {
+        "3200": {
+          "name": "석재, 점토, 유리 및 콘크리트 제품",
+          "name_en": "Stone, Clay, Glass, and Concrete Products",
+          "type": "major_group",
+          "subcategories": {
+            "3272": {
+              "name": "Concrete Products, nec",
+              "type": "industry"
+            },
+            "3241": {
+              "name": "Cement, Hydraulic",
+              "type": "industry"
+            },
+            "3211": {
+              "name": "Flat Glass",
+              "type": "industry"
+            },
+            "3231": {
+              "name": "Products of Purchased Glass",
+              "type": "industry"
+            },
+            "3221": {
+              "name": "Glass Containers",
+              "type": "industry"
+            },
+            "3281": {
+              "name": "Cut Stone & Stone Products",
+              "type": "industry"
+            }
+          }
+        }
+      }
+    },
+    "57": {
+      "name": "소매업",
+      "name_en": "Retail Trade",
+      "type": "division",
+      "division_letter": "G",
+      "subcategories": {
+        "5700": {
+          "name": "가구 및 가정용품 상점",
+          "name_en": "Home Furniture, Furnishings, and Equipment Stores",
+          "type": "major_group",
+          "subcategories": {
+            "5712": {
+              "name": "Furniture Stores",
+              "type": "industry"
+            },
+            "5731": {
+              "name": "Radio, TV & Electronic Stores",
+              "type": "industry"
+            },
+            "5734": {
+              "name": "Computer & Software Stores",
+              "type": "industry"
+            },
+            "5735": {
+              "name": "Record & Prerecorded Tape Stores",
+              "type": "industry"
+            }
+          }
+        }
+      }
+    },
+    "52": {
+      "name": "소매업",
+      "name_en": "Retail Trade",
+      "type": "division",
+      "division_letter": "G",
+      "subcategories": {
+        "5200": {
+          "name": "건축 자재, 하드웨어, 정원 용품",
+          "name_en": "Building Materials, Hardware, Garden Supply, and Mobile Home Dealers",
+          "type": "major_group",
+          "subcategories": {
+            "52": {
+              "name": "Retail Trade",
+              "type": "industry"
+            },
+            "5211": {
+              "name": "Lumber & Other Building Materials",
+              "type": "industry"
+            }
+          }
+        }
+      }
+    },
+    "83": {
+      "name": "서비스업",
+      "name_en": "Services",
+      "type": "division",
+      "division_letter": "I",
+      "subcategories": {
+        "8300": {
+          "name": "사회 서비스",
+          "name_en": "Social Services",
+          "type": "major_group",
+          "subcategories": {
+            "8351": {
+              "name": "Child Day Care Services",
+              "type": "industry"
+            }
+          }
+        }
+      }
+    },
+    "59": {
+      "name": "소매업",
+      "name_en": "Retail Trade",
+      "type": "division",
+      "division_letter": "G",
+      "subcategories": {
+        "5900": {
+          "name": "기타 소매업",
+          "name_en": "Miscellaneous Retail",
+          "type": "major_group",
+          "subcategories": {
+            "5944": {
+              "name": "Jewelers Stores",
+              "type": "industry"
+            },
+            "5912": {
+              "name": "Drug Stores & Proprietary Stores",
+              "type": "industry"
+            },
+            "5945": {
+              "name": "Hobby, Toy & Game Shops",
+              "type": "industry"
+            },
+            "5961": {
+              "name": "Catalog & Mail Order Houses",
+              "type": "industry"
+            }
+          }
+        }
+      }
+    },
+    "20": {
+      "name": "제조업",
+      "name_en": "Manufacturing",
+      "type": "division",
+      "division_letter": "D",
+      "subcategories": {
+        "2000": {
+          "name": "식품 및 관련 제품",
+          "name_en": "FOOD AND KINDRED PRODUCTS",
+          "type": "major_group",
+          "subcategories": {
+            "2024": {
+              "name": "Ice Cream & Frozen Desserts",
+              "type": "industry"
+            },
+            "2082": {
+              "name": "Malt Beverages",
+              "type": "industry"
+            },
+            "2011": {
+              "name": "Meat Packing Plants",
+              "type": "industry"
+            },
+            "2086": {
+              "name": "Bottled & Canned Soft Drinks",
+              "type": "industry"
+            },
+            "2013": {
+              "name": "Sausages & Other Prepared Meats",
+              "type": "industry"
+            },
+            "2052": {
+              "name": "Cookies & Crackers",
+              "type": "industry"
+            },
+            "2015": {
+              "name": "Poultry Slaughtering & Processing",
+              "type": "industry"
+            },
+            "2033": {
+              "name": "Canned Fruits & Vegetables",
+              "type": "industry"
+            }
+          }
+        }
+      }
+    },
+    "54": {
+      "name": "소매업",
+      "name_en": "Retail Trade",
+      "type": "division",
+      "division_letter": "G",
+      "subcategories": {
+        "5400": {
+          "name": "식료품 상점",
+          "name_en": "Food Stores",
+          "type": "major_group",
+          "subcategories": {
+            "5411": {
+              "name": "Grocery Stores",
+              "type": "industry"
+            }
+          }
+        }
+      }
+    },
+    "42": {
+      "name": "운송, 통신 및 공공 서비스",
+      "name_en": "Transportation, Communications, Electric",
+      "type": "division",
+      "division_letter": "E",
+      "subcategories": {
+        "4200": {
+          "name": "트럭 운송 및 창고업",
+          "name_en": "Motor Freight Transportation and Warehousing",
+          "type": "major_group",
+          "subcategories": {
+            "4213": {
+              "name": "Trucking, Except Local",
+              "type": "industry"
+            }
+          }
+        }
+      }
+    },
+    "48": {
+      "name": "운송, 통신 및 공공 서비스",
+      "name_en": "Transportation, Communications, Electric",
+      "type": "division",
+      "division_letter": "E",
+      "subcategories": {
+        "4800": {
+          "name": "통신",
+          "name_en": "Communications",
+          "type": "major_group",
+          "subcategories": {
+            "4832": {
+              "name": "Radio Broadcasting Stations",
+              "type": "industry"
+            },
+            "4813": {
+              "name": "Telephone Communications, Except Radio",
+              "type": "industry"
+            },
+            "4812": {
+              "name": "Radiotelephone Communications",
+              "type": "industry"
+            },
+            "4841": {
+              "name": "Cable & Other Pay TV Services",
+              "type": "industry"
+            },
+            "4899": {
+              "name": "Communications Services, nec",
+              "type": "industry"
+            },
+            "4822": {
+              "name": "Telegraph & Other Communications",
+              "type": "industry"
+            },
+            "4833": {
+              "name": "Television Broadcasting Stations",
+              "type": "industry"
+            }
+          }
+        }
+      }
+    },
+    "36": {
+      "name": "제조업",
+      "name_en": "Manufacturing",
+      "type": "division",
+      "division_letter": "D",
+      "subcategories": {
+        "3600": {
+          "name": "전기 및 전자 장비",
+          "name_en": "Electronic and Other Electrical Equipment and Components, Except Computer Equipment",
+          "type": "major_group",
+          "subcategories": {
+            "3674": {
+              "name": "Semiconductors & Related Devices",
+              "type": "industry"
+            },
+            "3612": {
+              "name": "Transformers, Except Electronic",
+              "type": "industry"
+            },
+            "3678": {
+              "name": "Electronic Connectors",
+              "type": "industry"
+            },
+            "3661": {
+              "name": "Telephone & Telegraph Apparatus",
+              "type": "industry"
+            },
+            "3672": {
+              "name": "Printed Circuit Boards",
+              "type": "industry"
+            },
+            "3695": {
+              "name": "Magnetic & Optical Recording Media",
+              "type": "industry"
+            },
+            "3621": {
+              "name": "Motors & Generators",
+              "type": "industry"
+            },
+            "3613": {
+              "name": "Switchgear & Switchboard Apparatus",
+              "type": "industry"
+            },
+            "3677": {
+              "name": "Electronic Coils & Transformers",
+              "type": "industry"
+            },
+            "3634": {
+              "name": "Electric Housewares & Fans",
+              "type": "industry"
+            },
+            "3679": {
+              "name": "Electronic Components, nec",
+              "type": "industry"
+            },
+            "3651": {
+              "name": "Household Audio & Video Equipment",
+              "type": "industry"
+            },
+            "3669": {
+              "name": "Communications Equipment, nec",
+              "type": "industry"
+            },
+            "3663": {
+              "name": "Radio & TV Communications Equipment",
+              "type": "industry"
+            }
+          }
+        }
+      }
+    },
+    "35": {
+      "name": "제조업",
+      "name_en": "Manufacturing",
+      "type": "division",
+      "division_letter": "D",
+      "subcategories": {
+        "3500": {
+          "name": "기계류 제조",
+          "name_en": "Industrial and Commercial Machinery and Computer Equipment",
+          "type": "major_group",
+          "subcategories": {
+            "3532": {
+              "name": "Mining Machinery",
+              "type": "industry"
+            },
+            "3555": {
+              "name": "Printing Trades Machinery",
+              "type": "industry"
+            },
+            "3524": {
+              "name": "Lawn & Garden Equipment",
+              "type": "industry"
+            },
+            "3576": {
+              "name": "Computer Communications Equipment",
+              "type": "industry"
+            },
+            "3577": {
+              "name": "Computer Peripheral Equipment, nec",
+              "type": "industry"
+            },
+            "3562": {
+              "name": "Ball & Roller Bearings",
+              "type": "industry"
+            },
+            "3561": {
+              "name": "Pumps & Pumping Equipment",
+              "type": "industry"
+            },
+            "3578": {
+              "name": "Calculating & Accounting Equipment",
+              "type": "industry"
+            },
+            "3569": {
+              "name": "General Industrial Machinery, nec",
+              "type": "industry"
+            },
+            "3559": {
+              "name": "Special Industry Machinery, nec",
+              "type": "industry"
+            },
+            "3585": {
+              "name": "Refrigeration & Heating Equipment",
+              "type": "industry"
+            },
+            "3579": {
+              "name": "Office Machines, nec",
+              "type": "industry"
+            },
+            "3533": {
+              "name": "Oil & Gas Field Machinery",
+              "type": "industry"
+            },
+            "3541": {
+              "name": "Machine Tools, Metal Cutting Types",
+              "type": "industry"
+            },
+            "3564": {
+              "name": "Blowers & Fans",
+              "type": "industry"
+            },
+            "3537": {
+              "name": "Industrial Trucks & Tractors",
+              "type": "industry"
+            },
+            "3531": {
+              "name": "Construction Machinery",
+              "type": "industry"
+            },
+            "3572": {
+              "name": "Computer Storage Devices",
+              "type": "industry"
+            },
+            "3523": {
+              "name": "Farm Machinery & Equipment",
+              "type": "industry"
+            },
+            "3571": {
+              "name": "Electronic Computers",
+              "type": "industry"
+            }
+          }
+        }
+      }
+    },
+    "30": {
+      "name": "제조업",
+      "name_en": "Manufacturing",
+      "type": "division",
+      "division_letter": "D",
+      "subcategories": {
+        "3000": {
+          "name": "고무 및 플라스틱 제품",
+          "name_en": "Rubber and Miscellaneous Plastics Products",
+          "type": "major_group",
+          "subcategories": {
+            "3081": {
+              "name": "Unsupported Plastics Film & Sheet",
+              "type": "industry"
+            },
+            "3021": {
+              "name": "Rubber & Plastics Footwear",
+              "type": "industry"
+            },
+            "3011": {
+              "name": "Tires & Inner Tubes",
+              "type": "industry"
+            },
+            "3086": {
+              "name": "Plastics Foam Products",
+              "type": "industry"
+            },
+            "3089": {
+              "name": "Plastics Products, nec",
+              "type": "industry"
+            }
+          }
+        }
+      }
+    },
+    "28": {
+      "name": "제조업",
+      "name_en": "Manufacturing",
+      "type": "division",
+      "division_letter": "D",
+      "subcategories": {
+        "2800": {
+          "name": "화학 및 관련 제품",
+          "name_en": "CHEMICALS AND ALLIED PRODUCTS",
+          "type": "major_group",
+          "subcategories": {
+            "2836": {
+              "name": "Biological Products, Except Diagnostic",
+              "type": "industry"
+            },
+            "2844": {
+              "name": "Perfumes & Cosmetics -Toilet Preparations",
+              "type": "industry"
+            },
+            "2833": {
+              "name": "Medicinals & Botanicals",
+              "type": "industry"
+            },
+            "2834": {
+              "name": "Pharmaceutical Preparations",
+              "type": "industry"
+            },
+            "2835": {
+              "name": "Diagnostic Substances",
+              "type": "industry"
+            },
+            "2851": {
+              "name": "Paints & Allied Products",
+              "type": "industry"
+            },
+            "2891": {
+              "name": "Adhesives & Sealants",
+              "type": "industry"
+            },
+            "2842": {
+              "name": "Polishes & Sanitation Goods",
+              "type": "industry"
+            },
+            "2821": {
+              "name": "Plastics Materials & Resins",
+              "type": "industry"
+            }
+          }
+        }
+      }
+    },
+    "80": {
+      "name": "서비스업",
+      "name_en": "Services",
+      "type": "division",
+      "division_letter": "I",
+      "subcategories": {
+        "8000": {
+          "name": "건강 서비스",
+          "name_en": "Health Services",
+          "type": "major_group",
+          "subcategories": {
+            "8062": {
+              "name": "General Medical & Surgical Hospitals",
+              "type": "industry"
+            },
+            "8082": {
+              "name": "Home Health Care Services",
+              "type": "industry"
+            },
+            "8071": {
+              "name": "Medical Laboratories",
+              "type": "industry"
+            },
+            "8051": {
+              "name": "Skilled Nursing Care Facilities",
+              "type": "industry"
+            },
+            "8011": {
+              "name": "Offices & Clinics of Medical Doctors",
+              "type": "industry"
+            },
+            "8093": {
+              "name": "Specialty Outpatient Clinics, nec",
+              "type": "industry"
+            }
+          }
+        }
+      }
+    },
+    "47": {
+      "name": "운송, 통신 및 공공 서비스",
+      "name_en": "Transportation, Communications, Electric",
+      "type": "division",
+      "division_letter": "E",
+      "subcategories": {
+        "4700": {
+          "name": "운송 서비스",
+          "name_en": "Transportation Services",
+          "type": "major_group",
+          "subcategories": {
+            "4731": {
+              "name": "Freight Transportation Arrangement",
+              "type": "industry"
+            }
+          }
+        }
+      }
+    },
+    "81": {
+      "name": "서비스업",
+      "name_en": "Services",
+      "type": "division",
+      "division_letter": "I",
+      "subcategories": {
+        "8100": {
+          "name": "법률 서비스",
+          "name_en": "Legal Services",
+          "type": "major_group",
+          "subcategories": {
+            "8111": {
+              "name": "Legal Services",
+              "type": "industry"
+            }
+          }
+        }
+      }
+    },
+    "73": {
+      "name": "서비스업",
+      "name_en": "Services",
+      "type": "division",
+      "division_letter": "I",
+      "subcategories": {
+        "7300": {
+          "name": "비즈니스 서비스",
+          "name_en": "Business Services",
+          "type": "major_group",
+          "subcategories": {
+            "7374": {
+              "name": "Data Processing & Preparation",
+              "type": "industry"
+            },
+            "7373": {
+              "name": "Computer Integrated Systems Design",
+              "type": "industry"
+            },
+            "7389": {
+              "name": "Trade Shows & Fairs",
+              "type": "industry"
+            },
+            "7371": {
+              "name": "Computer Programming Services",
+              "type": "industry"
+            },
+            "7381": {
+              "name": "Detective & Armored Car Services",
+              "type": "industry"
+            },
+            "7363": {
+              "name": "Help Supply Services",
+              "type": "industry"
+            },
+            "7384": {
+              "name": "Photo Finishing Laboratories",
+              "type": "industry"
+            },
+            "7361": {
+              "name": "Employment Agencies",
+              "type": "industry"
+            },
+            "7372": {
+              "name": "Prepackaged Software",
+              "type": "industry"
+            },
+            "7359": {
+              "name": "Misc. Equipment Rental & Leasing, nec",
+              "type": "industry"
+            },
+            "7331": {
+              "name": "Direct Mail Advertising Services",
+              "type": "industry"
+            },
+            "7311": {
+              "name": "Advertising Agencies",
+              "type": "industry"
+            }
+          }
+        }
+      }
+    },
+    "78": {
+      "name": "서비스업",
+      "name_en": "Services",
+      "type": "division",
+      "division_letter": "I",
+      "subcategories": {
+        "7800": {
+          "name": "모션 픽처",
+          "name_en": "Motion Pictures",
+          "type": "major_group",
+          "subcategories": {
+            "7841": {
+              "name": "Video Tape Rental",
+              "type": "industry"
+            },
+            "7822": {
+              "name": "Motion Picture & Tape Distribution",
+              "type": "industry"
+            },
+            "7829": {
+              "name": "Motion Picture Distribution Services",
+              "type": "industry"
+            },
+            "7812": {
+              "name": "Motion Picture & Video Production",
+              "type": "industry"
+            }
+          }
+        }
+      }
+    },
+    "50": {
+      "name": "도매업",
+      "name_en": "Wholesale Trade",
+      "type": "division",
+      "division_letter": "F",
+      "subcategories": {
+        "5000": {
+          "name": "내구재 도매",
+          "name_en": "Wholesale Trade - Durable Goods",
+          "type": "major_group",
+          "subcategories": {
+            "5031": {
+              "name": "Lumber, Plywood & Millwork",
+              "type": "industry"
+            },
+            "5084": {
+              "name": "Industrial Machinery & Equipment",
+              "type": "industry"
+            },
+            "5063": {
+              "name": "Electrical Apparatus & Equipment",
+              "type": "industry"
+            },
+            "5094": {
+              "name": "Jewelry & Precious Stones",
+              "type": "industry"
+            },
+            "5051": {
+              "name": "Metals Service Centers & Offices",
+              "type": "industry"
+            },
+            "5013": {
+              "name": "Motor Vehicle Supplies & New Parts",
+              "type": "industry"
+            },
+            "5072": {
+              "name": "Hardware",
+              "type": "industry"
+            },
+            "5047": {
+              "name": "Medical & Hospital Equipment",
+              "type": "industry"
+            },
+            "5065": {
+              "name": "Electronic Parts & Equipment",
+              "type": "industry"
+            },
+            "5045": {
+              "name": "Computers, Peripherals & Software",
+              "type": "industry"
+            }
+          }
+        }
+      }
+    },
+    "26": {
+      "name": "제조업",
+      "name_en": "Manufacturing",
+      "type": "division",
+      "division_letter": "D",
+      "subcategories": {
+        "2600": {
+          "name": "종이 및 관련 제품",
+          "name_en": "Paper and Allied Products",
+          "type": "major_group",
+          "subcategories": {
+            "2621": {
+              "name": "Paper Mills",
+              "type": "industry"
+            },
+            "2631": {
+              "name": "Paperboard Mills",
+              "type": "industry"
+            },
+            "2611": {
+              "name": "Pulp Mills",
+              "type": "industry"
+            }
+          }
+        }
+      }
+    },
+    "65": {
+      "name": "금융, 보험 및 부동산",
+      "name_en": "Finance, Insurance, and Real Estate",
+      "type": "division",
+      "division_letter": "H",
+      "subcategories": {
+        "6500": {
+          "name": "부동산",
+          "name_en": "Real Estate",
+          "type": "major_group",
+          "subcategories": {
+            "6552": {
+              "name": "Subdividers & Developers, nec",
+              "type": "industry"
+            },
+            "6519": {
+              "name": "Real Property Lessors, nec",
+              "type": "industry"
+            },
+            "6513": {
+              "name": "Apartment Building Operators",
+              "type": "industry"
+            },
+            "6512": {
+              "name": "Nonresidential Building Operators",
+              "type": "industry"
+            },
+            "6531": {
+              "name": "Real Estate Agents & Managers",
+              "type": "industry"
+            }
+          }
+        }
+      }
+    },
+    "37": {
+      "name": "제조업",
+      "name_en": "Manufacturing",
+      "type": "division",
+      "division_letter": "D",
+      "subcategories": {
+        "3700": {
+          "name": "운송 장비",
+          "name_en": "Transportation Equipment",
+          "type": "major_group",
+          "subcategories": {
+            "3714": {
+              "name": "Motor Vehicle Parts & Accessories",
+              "type": "industry"
+            },
+            "3715": {
+              "name": "Truck Trailers",
+              "type": "industry"
+            },
+            "3716": {
+              "name": "Motor Homes",
+              "type": "industry"
+            },
+            "3724": {
+              "name": "Aircraft Engines & Engine Parts",
+              "type": "industry"
+            },
+            "3711": {
+              "name": "Motor Vehicles & Car Bodies",
+              "type": "industry"
+            },
+            "3721": {
+              "name": "Aircraft",
+              "type": "industry"
+            },
+            "3728": {
+              "name": "Aircraft Parts & Equipment, nec",
+              "type": "industry"
+            },
+            "3713": {
+              "name": "Truck & Bus Bodies",
+              "type": "industry"
+            },
+            "3743": {
+              "name": "Railroad Equipment",
+              "type": "industry"
+            },
+            "3751": {
+              "name": "Motorcycles, Bicycles & Parts",
+              "type": "industry"
+            }
+          }
+        }
+      }
+    },
+    "38": {
+      "name": "제조업",
+      "name_en": "Manufacturing",
+      "type": "division",
+      "division_letter": "D",
+      "subcategories": {
+        "3800": {
+          "name": "계측기 및 의료 기기",
+          "name_en": "Measuring, Analyzing, and Controlling Instruments",
+          "type": "major_group",
+          "subcategories": {
+            "3851": {
+              "name": "Ophthalmic Goods",
+              "type": "industry"
+            },
+            "3841": {
+              "name": "Surgical & Medical Instruments",
+              "type": "industry"
+            },
+            "3823": {
+              "name": "Process Control Instruments",
+              "type": "industry"
+            },
+            "3824": {
+              "name": "Fluid Meters & Counting Devices",
+              "type": "industry"
+            },
+            "3873": {
+              "name": "Watches, Clocks, Watchcases & Parts",
+              "type": "industry"
+            },
+            "3844": {
+              "name": "X-Ray Apparatus & Tubes",
+              "type": "industry"
+            },
+            "3861": {
+              "name": "Photographic Equipment & Supplies",
+              "type": "industry"
+            },
+            "3829": {
+              "name": "Measuring & Controlling Devices, nec",
+              "type": "industry"
+            },
+            "3826": {
+              "name": "Analytical Instruments",
+              "type": "industry"
+            },
+            "3825": {
+              "name": "Instruments to Measure Electricity",
+              "type": "industry"
+            },
+            "3843": {
+              "name": "Dental Equipment & Supplies",
+              "type": "industry"
+            },
+            "3842": {
+              "name": "Surgical Appliances & Supplies",
+              "type": "industry"
+            },
+            "3821": {
+              "name": "Laboratory Apparatus & Furniture",
+              "type": "industry"
+            },
+            "3822": {
+              "name": "Environmental Controls",
+              "type": "industry"
+            },
+            "3827": {
+              "name": "Optical Instruments & Lenses",
+              "type": "industry"
+            },
+            "3812": {
+              "name": "Search & Navigation Equipment",
+              "type": "industry"
+            },
+            "3845": {
+              "name": "Electromedical Equipment",
+              "type": "industry"
+            }
+          }
+        }
+      }
+    },
+    "49": {
+      "name": "운송, 통신 및 공공 서비스",
+      "name_en": "Transportation, Communications, Electric",
+      "type": "division",
+      "division_letter": "E",
+      "subcategories": {
+        "4900": {
+          "name": "전기, 가스 및 위생 서비스",
+          "name_en": "Electric, Gas, and Sanitary Services",
+          "type": "major_group",
+          "subcategories": {
+            "4953": {
+              "name": "Refuse Systems",
+              "type": "industry"
+            },
+            "4911": {
+              "name": "Electric Services",
+              "type": "industry"
+            },
+            "4922": {
+              "name": "Natural Gas Transmission",
+              "type": "industry"
+            },
+            "4991": {
+              "name": "Hazardous Waste Management",
+              "type": "industry"
+            },
+            "4931": {
+              "name": "Electric & Other Services Combined",
+              "type": "industry"
+            },
+            "4924": {
+              "name": "Natural Gas Distribution",
+              "type": "industry"
+            },
+            "4932": {
+              "name": "Gas & Other Services Combined",
+              "type": "industry"
+            },
+            "4941": {
+              "name": "Water Supply",
+              "type": "industry"
+            },
+            "4955": {
+              "name": "Hazardous Waste Management",
+              "type": "industry"
+            },
+            "4923": {
+              "name": "Gas Transmission & Distribution",
+              "type": "industry"
+            }
+          }
+        }
+      }
+    },
+    "33": {
+      "name": "제조업",
+      "name_en": "Manufacturing",
+      "type": "division",
+      "division_letter": "D",
+      "subcategories": {
+        "3300": {
+          "name": "1차 금속 산업",
+          "name_en": "Primary Metal Industries",
+          "type": "major_group",
+          "subcategories": {
+            "3312": {
+              "name": "Blast Furnaces & Steel Mills",
+              "type": "industry"
+            },
+            "3357": {
+              "name": "Nonferrous Wiredrawing & Insulating",
+              "type": "industry"
+            },
+            "3334": {
+              "name": "Primary Aluminum",
+              "type": "industry"
+            },
+            "3341": {
+              "name": "Secondary Nonferrous Metals",
+              "type": "industry"
+            },
+            "3317": {
+              "name": "Steel Pipe & Tubes",
+              "type": "industry"
+            }
+          }
+        }
+      }
+    },
+    "39": {
+      "name": "제조업",
+      "name_en": "Manufacturing",
+      "type": "division",
+      "division_letter": "D",
+      "subcategories": {
+        "3900": {
+          "name": "기타 제조업",
+          "name_en": "Miscellaneous Manufacturing Industries",
+          "type": "major_group",
+          "subcategories": {
+            "3949": {
+              "name": "Sporting & Athletic Goods, nec",
+              "type": "industry"
+            },
+            "3942": {
+              "name": "Dolls & Stuffed Toys",
+              "type": "industry"
+            },
+            "3944": {
+              "name": "Games, Toys & Children's Vehicles",
+              "type": "industry"
+            }
+          }
+        }
+      }
+    },
+    "56": {
+      "name": "소매업",
+      "name_en": "Retail Trade",
+      "type": "division",
+      "division_letter": "G",
+      "subcategories": {
+        "5600": {
+          "name": "의류 및 액세서리 상점",
+          "name_en": "Apparel and Accessory Stores",
+          "type": "major_group",
+          "subcategories": {
+            "5621": {
+              "name": "Women's Clothing Stores",
+              "type": "industry"
+            },
+            "5661": {
+              "name": "Shoe Stores",
+              "type": "industry"
+            },
+            "5651": {
+              "name": "Family Clothing Stores",
+              "type": "industry"
+            }
+          }
+        }
+      }
+    },
+    "45": {
+      "name": "운송, 통신 및 공공 서비스",
+      "name_en": "Transportation, Communications, Electric",
+      "type": "division",
+      "division_letter": "E",
+      "subcategories": {
+        "4500": {
+          "name": "항공 운송",
+          "name_en": "Transportation by Air",
+          "type": "major_group",
+          "subcategories": {
+            "4512": {
+              "name": "Air Transportation, Scheduled",
+              "type": "industry"
+            },
+            "4513": {
+              "name": "Air Courier Services",
+              "type": "industry"
+            },
+            "4581": {
+              "name": "Airports, Flying Fields & Services",
+              "type": "industry"
+            },
+            "4522": {
+              "name": "Air Transportation, Nonscheduled",
+              "type": "industry"
+            }
+          }
+        }
+      }
+    },
+    "63": {
+      "name": "금융, 보험 및 부동산",
+      "name_en": "Finance, Insurance, and Real Estate",
+      "type": "division",
+      "division_letter": "H",
+      "subcategories": {
+        "6300": {
+          "name": "보험사",
+          "name_en": "Insurance Carriers",
+          "type": "major_group",
+          "subcategories": {
+            "6311": {
+              "name": "Life Insurance",
+              "type": "industry"
+            },
+            "6331": {
+              "name": "Fire, Marine & Casualty Insurance",
+              "type": "industry"
+            },
+            "6324": {
+              "name": "Hospital & Medical Service Plans",
+              "type": "industry"
+            },
+            "6399": {
+              "name": "Insurance Carriers, nec",
+              "type": "industry"
+            },
+            "6361": {
+              "name": "Title Insurance",
+              "type": "industry"
+            },
+            "6351": {
+              "name": "Surety Insurance",
+              "type": "industry"
+            },
+            "6321": {
+              "name": "Accident & Health Insurance",
+              "type": "industry"
+            }
+          }
+        }
+      }
+    },
+    "87": {
+      "name": "서비스업",
+      "name_en": "Services",
+      "type": "division",
+      "division_letter": "I",
+      "subcategories": {
+        "8700": {
+          "name": "공학 및 경영 서비스",
+          "name_en": "Engineering, Accounting, Research, Management, and Related Services",
+          "type": "major_group",
+          "subcategories": {
+            "8742": {
+              "name": "Management Consulting Services",
+              "type": "industry"
+            },
+            "8741": {
+              "name": "Management Services",
+              "type": "industry"
+            },
+            "8734": {
+              "name": "Testing Laboratories",
+              "type": "industry"
+            },
+            "8744": {
+              "name": "Facilities Support Services",
+              "type": "industry"
+            },
+            "8711": {
+              "name": "Engineering Services",
+              "type": "industry"
+            },
+            "8731": {
+              "name": "Commercial Physical Research",
+              "type": "industry"
+            }
+          }
+        }
+      }
+    },
+    "22": {
+      "name": "제조업",
+      "name_en": "Manufacturing",
+      "type": "division",
+      "division_letter": "D",
+      "subcategories": {
+        "2200": {
+          "name": "섬유 제품",
+          "name_en": "Textile Mill Products",
+          "type": "major_group",
+          "subcategories": {
+            "2221": {
+              "name": "Broadwoven Fabric Mills, Manmade",
+              "type": "industry"
+            },
+            "2211": {
+              "name": "Broadwoven Fabric Mills, Cotton",
+              "type": "industry"
+            },
+            "2273": {
+              "name": "Carpets & Rugs",
+              "type": "industry"
+            }
+          }
+        }
+      }
+    },
+    "61": {
+      "name": "금융, 보험 및 부동산",
+      "name_en": "Finance, Insurance, and Real Estate",
+      "type": "division",
+      "division_letter": "H",
+      "subcategories": {
+        "6100": {
+          "name": "비은행 금융 기관",
+          "name_en": "Nondepository Credit Institutions",
+          "type": "major_group",
+          "subcategories": {
+            "6159": {
+              "name": "Misc. Business Credit Institutions",
+              "type": "industry"
+            },
+            "6199": {
+              "name": "Financial Services",
+              "type": "industry"
+            },
+            "6163": {
+              "name": "Loan Brokers",
+              "type": "industry"
+            },
+            "6162": {
+              "name": "Mortgage Bankers & Correspondents",
+              "type": "industry"
+            },
+            "6189": {
+              "name": "Asset Backed Securities",
+              "type": "industry"
+            },
+            "6141": {
+              "name": "Personal Credit Unions",
+              "type": "industry"
+            },
+            "6153": {
+              "name": "Short Term Business Credit",
+              "type": "industry"
+            },
+            "6111": {
+              "name": "Federal & Federally Sponsored Credit Agencies",
+              "type": "industry"
+            },
+            "6172": {
+              "name": "Finance Lessors",
+              "type": "industry"
+            }
+          }
+        }
+      }
+    },
+    "67": {
+      "name": "금융, 보험 및 부동산",
+      "name_en": "Finance, Insurance, and Real Estate",
+      "type": "division",
+      "division_letter": "H",
+      "subcategories": {
+        "6700": {
+          "name": "지주 회사",
+          "name_en": "Holding and Other Investment Offices",
+          "type": "major_group",
+          "subcategories": {
+            "6792": {
+              "name": "Oil Royalty Traders",
+              "type": "industry"
+            },
+            "6798": {
+              "name": "Real Estate Investment Trusts",
+              "type": "industry"
+            },
+            "6794": {
+              "name": "Patent Owners & Lessors",
+              "type": "industry"
+            },
+            "6795": {
+              "name": "Mineral Royalty Traders",
+              "type": "industry"
+            },
+            "6799": {
+              "name": "Investors, nec",
+              "type": "industry"
+            }
+          }
+        }
+      }
+    },
+    "99": {
+      "name": "공공 행정",
+      "name_en": "Public Administration",
+      "type": "division",
+      "division_letter": "J",
+      "subcategories": {
+        "9900": {
+          "name": "비분류 공공 행정",
+          "name_en": "Nonclassifiable Establishments",
+          "type": "major_group",
+          "subcategories": {
+            "99": {
+              "name": "Miscellaneous",
+              "type": "industry"
+            }
+          }
+        }
+      }
+    },
+    "15": {
+      "name": "건설업",
+      "name_en": "Construction",
+      "type": "division",
+      "division_letter": "C",
+      "subcategories": {
+        "1500": {
+          "name": "건축 건설 일반 계약자",
+          "name_en": "Building Construction General Contractors and Operative Builders",
+          "type": "major_group",
+          "subcategories": {
+            "15": {
+              "name": "Construction",
+              "type": "industry"
+            },
+            "1531": {
+              "name": "Operative Builders",
+              "type": "industry"
+            }
+          }
+        }
+      }
+    },
+    "34": {
+      "name": "제조업",
+      "name_en": "Manufacturing",
+      "type": "division",
+      "division_letter": "D",
+      "subcategories": {
+        "3400": {
+          "name": "금속 제품 제조",
+          "name_en": "Fabricated Metal Products, Except Machinery and Transportation Equipment",
+          "type": "major_group",
+          "subcategories": {
+            "3433": {
+              "name": "Heating Equipment, Except Electric",
+              "type": "industry"
+            },
+            "3452": {
+              "name": "Bolts, Nuts, Rivets & Washers",
+              "type": "industry"
+            },
+            "3412": {
+              "name": "Metal Barrels, Drums & Pails",
+              "type": "industry"
+            },
+            "3411": {
+              "name": "Metal Cans",
+              "type": "industry"
+            },
+            "3442": {
+              "name": "Metal Doors, Sash & Trim",
+              "type": "industry"
+            },
+            "3443": {
+              "name": "Fabricated Plate Work (Boiler Shops)",
+              "type": "industry"
+            },
+            "3448": {
+              "name": "Prefabricated Metal Buildings",
+              "type": "industry"
+            }
+          }
+        }
+      }
+    },
+    "16": {
+      "name": "건설업",
+      "name_en": "Construction",
+      "type": "division",
+      "division_letter": "C",
+      "subcategories": {
+        "1600": {
+          "name": "중공업 건설",
+          "name_en": "Heavy Construction Other Than Building Construction Contractors",
+          "type": "major_group",
+          "subcategories": {
+            "1623": {
+              "name": "Water, Sewer & Utility Lines",
+              "type": "industry"
+            }
+          }
+        }
+      }
+    },
+    "24": {
+      "name": "제조업",
+      "name_en": "Manufacturing",
+      "type": "division",
+      "division_letter": "D",
+      "subcategories": {
+        "2400": {
+          "name": "목재 및 목재 제품",
+          "name_en": "Lumber and Wood Products, Except Furniture",
+          "type": "major_group",
+          "subcategories": {
+            "2452": {
+              "name": "Prefabricated Wood Buildings",
+              "type": "industry"
+            },
+            "2421": {
+              "name": "Sawmills & Planing Mills, General",
+              "type": "industry"
+            },
+            "2451": {
+              "name": "Mobile Homes",
+              "type": "industry"
+            }
+          }
+        }
+      }
+    },
+    "53": {
+      "name": "소매업",
+      "name_en": "Retail Trade",
+      "type": "division",
+      "division_letter": "G",
+      "subcategories": {
+        "5300": {
+          "name": "일반 상품 상점",
+          "name_en": "General Merchandise Stores",
+          "type": "major_group",
+          "subcategories": {
+            "5311": {
+              "name": "Department Stores",
+              "type": "industry"
+            },
+            "5331": {
+              "name": "Variety Stores",
+              "type": "industry"
+            }
+          }
+        }
+      }
+    },
+    "27": {
+      "name": "제조업",
+      "name_en": "Manufacturing",
+      "type": "division",
+      "division_letter": "D",
+      "subcategories": {
+        "2700": {
+          "name": "인쇄 및 출판",
+          "name_en": "Printing, Publishing, and Allied Industries",
+          "type": "major_group",
+          "subcategories": {
+            "2771": {
+              "name": "Greeting Cards",
+              "type": "industry"
+            },
+            "2741": {
+              "name": "Miscellaneous Publishing",
+              "type": "industry"
+            },
+            "2761": {
+              "name": "Manifold Business Forms",
+              "type": "industry"
+            },
+            "2732": {
+              "name": "Book Printing",
+              "type": "industry"
+            },
+            "2721": {
+              "name": "Periodicals",
+              "type": "industry"
+            },
+            "2711": {
+              "name": "Newspapers",
+              "type": "industry"
+            },
+            "2731": {
+              "name": "Book Publishing",
+              "type": "industry"
+            }
+          }
+        }
+      }
+    },
+    "62": {
+      "name": "금융, 보험 및 부동산",
+      "name_en": "Finance, Insurance, and Real Estate",
+      "type": "division",
+      "division_letter": "H",
+      "subcategories": {
+        "6200": {
+          "name": "증권, 상품 계약 및 기타 금융 투자",
+          "name_en": "Security and Commodity Brokers, Dealers, Exchanges, and Services",
+          "type": "major_group",
+          "subcategories": {
+            "6221": {
+              "name": "Commodity Contracts Brokers, Dealers",
+              "type": "industry"
+            },
+            "6211": {
+              "name": "Security Brokers & Dealers",
+              "type": "industry"
+            },
+            "6282": {
+              "name": "Investment Advice",
+              "type": "industry"
+            }
+          }
+        }
+      }
+    },
+    "40": {
+      "name": "운송, 통신 및 공공 서비스",
+      "name_en": "Transportation, Communications, Electric",
+      "type": "division",
+      "division_letter": "E",
+      "subcategories": {
+        "4000": {
+          "name": "철도 운송",
+          "name_en": "Railroad Transportation",
+          "type": "major_group",
+          "subcategories": {
+            "4013": {
+              "name": "Switching & Terminal Devices",
+              "type": "industry"
+            },
+            "4011": {
+              "name": "Railroads Line-Haul Operating",
+              "type": "industry"
+            }
+          }
+        }
+      }
+    },
+    "70": {
+      "name": "서비스업",
+      "name_en": "Services",
+      "type": "division",
+      "division_letter": "I",
+      "subcategories": {
+        "7000": {
+          "name": "호텔 및 기타 숙박 시설",
+          "name_en": "Hotels, Rooming Houses, Camps, and Other Lodging Places",
+          "type": "major_group",
+          "subcategories": {
+            "7011": {
+              "name": "Hotels & Motels",
+              "type": "industry"
+            }
+          }
+        }
+      }
+    },
+    "60": {
+      "name": "금융, 보험 및 부동산",
+      "name_en": "Finance, Insurance, and Real Estate",
+      "type": "division",
+      "division_letter": "H",
+      "subcategories": {
+        "6000": {
+          "name": "은행",
+          "name_en": "Depository Institutions",
+          "type": "major_group",
+          "subcategories": {
+            "6036": {
+              "name": "Savings Institutions, Except Federal",
+              "type": "industry"
+            },
+            "6022": {
+              "name": "State Commercial Banks",
+              "type": "industry"
+            },
+            "6035": {
+              "name": "Federal Savings Institutions",
+              "type": "industry"
+            },
+            "6021": {
+              "name": "National Commercial Banks",
+              "type": "industry"
+            },
+            "6099": {
+              "name": "Functions Related to Deposit Banking",
+              "type": "industry"
+            },
+            "6029": {
+              "name": "Commercial Banks, nec",
+              "type": "industry"
+            }
+          }
+        }
+      }
+    },
+    "13": {
+      "name": "광업",
+      "name_en": "Mining",
+      "type": "division",
+      "division_letter": "B",
+      "subcategories": {
+        "1300": {
+          "name": "석유 및 가스 추출",
+          "name_en": "Oil and Gas Extraction",
+          "type": "major_group",
+          "subcategories": {
+            "1389": {
+              "name": "Oil & Gas Field Services, nec",
+              "type": "industry"
+            },
+            "1311": {
+              "name": "Crude Petroleum & Natural Gas",
+              "type": "industry"
+            },
+            "1381": {
+              "name": "Drilling Oil & Gas Wells",
+              "type": "industry"
+            },
+            "1382": {
+              "name": "Oil & Gas Exploration Services",
+              "type": "industry"
+            }
+          }
+        }
+      }
+    },
+    "12": {
+      "name": "광업",
+      "name_en": "Mining",
+      "type": "division",
+      "division_letter": "B",
+      "subcategories": {
+        "1200": {
+          "name": "석탄 광업",
+          "name_en": "Coal Mining",
+          "type": "major_group",
+          "subcategories": {
+            "1221": {
+              "name": "Bituminous Coal & Lignite - Surface",
+              "type": "industry"
+            }
+          }
+        }
+      }
+    },
+    "51": {
+      "name": "도매업",
+      "name_en": "Wholesale Trade",
+      "type": "division",
+      "division_letter": "F",
+      "subcategories": {
+        "5100": {
+          "name": "비내구재 도매",
+          "name_en": "Wholesale Trade - Nondurable Goods",
+          "type": "major_group",
+          "subcategories": {
+            "5171": {
+              "name": "Petroleum Bulk Stations &Terminals",
+              "type": "industry"
+            },
+            "5172": {
+              "name": "Petroleum Products, nec",
+              "type": "industry"
+            },
+            "5141": {
+              "name": "Groceries, General Line",
+              "type": "industry"
+            },
+            "5122": {
+              "name": "Drugs, Proprietaries & Sundries",
+              "type": "industry"
+            }
+          }
+        }
+      }
+    },
+    "25": {
+      "name": "제조업",
+      "name_en": "Manufacturing",
+      "type": "division",
+      "division_letter": "D",
+      "subcategories": {
+        "2500": {
+          "name": "가구 및 집기",
+          "name_en": "Furniture and Fixtures",
+          "type": "major_group",
+          "subcategories": {
+            "2531": {
+              "name": "Public Building & Related Furniture",
+              "type": "industry"
+            },
+            "2522": {
+              "name": "Office Furniture, Except Wood",
+              "type": "industry"
+            },
+            "2511": {
+              "name": "Wood Household Furniture",
+              "type": "industry"
+            }
+          }
+        }
+      }
+    },
+    "21": {
+      "name": "제조업",
+      "name_en": "Manufacturing",
+      "type": "division",
+      "division_letter": "D",
+      "subcategories": {
+        "2100": {
+          "name": "담배 제품",
+          "name_en": "Tobacco Products",
+          "type": "major_group",
+          "subcategories": {
+            "2111": {
+              "name": "Cigarettes",
+              "type": "industry"
+            }
+          }
+        }
+      }
+    },
+    "58": {
+      "name": "소매업",
+      "name_en": "Retail Trade",
+      "type": "division",
+      "division_letter": "G",
+      "subcategories": {
+        "5800": {
+          "name": "식당 및 주점",
+          "name_en": "Eating and Drinking Places",
+          "type": "major_group",
+          "subcategories": {
+            "5812": {
+              "name": "Caterers & Banquet Halls",
+              "type": "industry"
+            }
+          }
+        }
+      }
+    },
+    "79": {
+      "name": "서비스업",
+      "name_en": "Services",
+      "type": "division",
+      "division_letter": "I",
+      "subcategories": {
+        "7900": {
+          "name": "놀이 및 오락 서비스",
+          "name_en": "Amusement and Recreation Services",
+          "type": "major_group",
+          "subcategories": {
+            "7948": {
+              "name": "Racing, Including Track Operation",
+              "type": "industry"
+            },
+            "7997": {
+              "name": "Membership Sports & Recreation Clubs",
+              "type": "industry"
+            }
+          }
+        }
+      }
+    },
+    "64": {
+      "name": "금융, 보험 및 부동산",
+      "name_en": "Finance, Insurance, and Real Estate",
+      "type": "division",
+      "division_letter": "H",
+      "subcategories": {
+        "6400": {
+          "name": "보험 에이전트, 브로커 및 서비스",
+          "name_en": "Insurance Agents, Brokers, and Service",
+          "type": "major_group",
+          "subcategories": {
+            "6411": {
+              "name": "Insurance Agents, Brokers & Service",
+              "type": "industry"
+            }
+          }
+        }
+      }
+    },
+    "55": {
+      "name": "소매업",
+      "name_en": "Retail Trade",
+      "type": "division",
+      "division_letter": "G",
+      "subcategories": {
+        "5500": {
+          "name": "자동차 딜러 및 주유소",
+          "name_en": "Automotive Dealers and Gasoline Service Stations",
+          "type": "major_group",
+          "subcategories": {
+            "5531": {
+              "name": "Auto & Home Supply Stores",
+              "type": "industry"
+            }
+          }
+        }
+      }
+    },
+    "17": {
+      "name": "건설업",
+      "name_en": "Construction",
+      "type": "division",
+      "division_letter": "C",
+      "subcategories": {
+        "1700": {
+          "name": "특수 무역 계약자",
+          "name_en": "Construction Special Trade Contractors",
+          "type": "major_group",
+          "subcategories": {
+            "1731": {
+              "name": "Electrical Work",
+              "type": "industry"
+            }
+          }
+        }
+      }
+    },
+    "44": {
+      "name": "운송, 통신 및 공공 서비스",
+      "name_en": "Transportation, Communications, Electric",
+      "type": "division",
+      "division_letter": "E",
+      "subcategories": {
+        "4400": {
+          "name": "수상 운송",
+          "name_en": "Water Transportation",
+          "type": "major_group",
+          "subcategories": {
+            "4412": {
+              "name": "Deep Sea Foreign Transport of Freight",
+              "type": "industry"
+            }
+          }
+        }
+      }
+    }
+  }
+}
