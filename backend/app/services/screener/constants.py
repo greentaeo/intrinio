@@ -1,11 +1,25 @@
+import json
+import os
+
+def load_sic_hierarchy():
+    current_dir = os.path.dirname(os.path.abspath(__file__))
+    file_path = os.path.join(current_dir, 'data', 'sic_hierarchy.json')
+    with open(file_path, 'r', encoding='utf-8') as f:
+        return json.load(f)
+
+SIC_HIERARCHY = load_sic_hierarchy()
+
+# 먼저 AVAILABLE_METRICS 딕셔너리 초기화
 AVAILABLE_METRICS = {
     "Risk": {
         "beta": "베타계수",
         "volume": "거래량",
-        
     },
     "Industry": {  
-        "sic": "산업분류코드"
+        "sic": "산업분류코드",
+        "sic_division": "산업 대분류",
+        "sic_major_group": "산업 중분류",
+        "sic_industry": "세부 산업"
     },
     "MarketCap": {  
         "marketcap": "시가총액",
@@ -41,7 +55,7 @@ AVAILABLE_METRICS = {
         "altmanzscore": "알트만 Z-Score",
         "debttototalcapital": "부채/총자본"
     },
-    "Valuation": {  # marketcap, enterprisevalue 제거
+    "Valuation": {
         "pricetoearnings": "P/E 비율",
         "pricetobook": "P/B 비율",
         "evtoebitda": "EV/EBITDA",
@@ -54,6 +68,18 @@ AVAILABLE_METRICS = {
         "ocfgrowth": "영업현금흐름 성장률",
         "capex": "설비투자",
         "ocftocapex": "OCF/CAPEX"
+    }
+}
+
+# Industry 필터 상세 정의
+INDUSTRY_FILTERS = {
+    "division": {
+        "name": "산업 대분류",
+        "type": "categorical",
+        "options": {
+            code: data["name"] 
+            for code, data in SIC_HIERARCHY["sic_codes"].items()
+        }
     }
 }
 
@@ -86,7 +112,7 @@ def format_value(metric: str, value: float) -> str:
     multiple_metrics = [
         'debttoebitda', 'netdebttoebitda', 'ebittointerestex',
         'pricetoearnings', 'pricetobook', 'evtoebitda', 'pricetorevenue',
-        'ocftocapex'  # OCF/CAPEX 추가
+        'ocftocapex'
     ]
     
     try:
