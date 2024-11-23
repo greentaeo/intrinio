@@ -1,0 +1,5655 @@
+{
+  "indices": [
+    {
+      "id": "ind_5ydJXK",
+      "symbol": "$SIC.2911",
+      "name": "Petroleum Refining",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Petroleum Refining",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_ByKvzb",
+      "symbol": "$SIC.3272",
+      "name": "Concrete Products, nec",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Concrete Products, nec",
+      "observation_start": "2008-09-30",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_mgwYzQ",
+      "symbol": "$SIC.3270",
+      "name": "Concrete, Gypsum & Plaster Products",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Concrete, Gypsum & Plaster Products",
+      "observation_start": "2008-09-30",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_Qz8bgb",
+      "symbol": "$SIC.3200",
+      "name": "STONE, CLAY & GLASS PRODUCTS",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "STONE, CLAY & GLASS PRODUCTS",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_bXZPyM",
+      "symbol": "$SIC.20",
+      "name": "Manufacturing",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Manufacturing",
+      "observation_start": "2007-09-28",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_9Xa6zB",
+      "symbol": "$SIC.5712",
+      "name": "Furniture Stores",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Furniture Stores",
+      "observation_start": "2009-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_RzmAze",
+      "symbol": "$SIC.5710",
+      "name": "Furniture & Homefurnishing Stores",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Furniture & Homefurnishing Stores",
+      "observation_start": "2009-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_2gB0zb",
+      "symbol": "$SIC.5700",
+      "name": "FURNITURE & HOMEFURNISHING STORES",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "FURNITURE & HOMEFURNISHING STORES",
+      "observation_start": "2008-02-02",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_NXnVXV",
+      "symbol": "$SIC.52",
+      "name": "Retail Trade",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Retail Trade",
+      "observation_start": "2007-09-30",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_Eg46z4",
+      "symbol": "$SIC.8351",
+      "name": "Child Day Care Services",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Child Day Care Services",
+      "observation_start": "2011-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_2z9lXV",
+      "symbol": "$SIC.8350",
+      "name": "Child Day Care Services",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Child Day Care Services",
+      "observation_start": "2011-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_Dg2ey6",
+      "symbol": "$SIC.8300",
+      "name": "SOCIAL SERVICES",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "SOCIAL SERVICES",
+      "observation_start": "2009-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_EgA5gQ",
+      "symbol": "$SIC.70",
+      "name": "Services",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Services",
+      "observation_start": "2007-09-28",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_ogD5XN",
+      "symbol": "$SIC.5944",
+      "name": "Jewelers Stores",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Jewelers Stores",
+      "observation_start": "2009-01-04",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_ozMdXL",
+      "symbol": "$SIC.5940",
+      "name": "Miscellaneous Shopping Goods Stores",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Miscellaneous Shopping Goods Stores",
+      "observation_start": "2008-02-02",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_5X7Ng0",
+      "symbol": "$SIC.5900",
+      "name": "MISCELLANEOUS RETAIL",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "MISCELLANEOUS RETAIL",
+      "observation_start": "2007-12-29",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_qgeNXo",
+      "symbol": "$SIC.2024",
+      "name": "Ice Cream & Frozen Desserts",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Ice Cream & Frozen Desserts",
+      "observation_start": "2008-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_4zr6zB",
+      "symbol": "$SIC.2020",
+      "name": "Dairy Products",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Dairy Products",
+      "observation_start": "2008-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_0yb7gR",
+      "symbol": "$SIC.2000",
+      "name": "FOOD & KINDRED PRODUCTS",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "FOOD & KINDRED PRODUCTS",
+      "observation_start": "2007-12-29",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_Wy1PzB",
+      "symbol": "$SIC.7380",
+      "name": "Miscellaneous Business Services",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Miscellaneous Business Services",
+      "observation_start": "2007-09-28",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_xgQ9gb",
+      "symbol": "$SIC.7300",
+      "name": "BUSINESS SERVICES",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "BUSINESS SERVICES",
+      "observation_start": "2007-09-28",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_rg0mXJ",
+      "symbol": "$SIC.5411",
+      "name": "Grocery Stores",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Grocery Stores",
+      "observation_start": "2007-12-29",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_Kz5Nyr",
+      "symbol": "$SIC.5410",
+      "name": "Grocery Stores",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Grocery Stores",
+      "observation_start": "2007-12-29",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_pgVb6g",
+      "symbol": "$SIC.5400",
+      "name": "FOOD STORES",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "FOOD STORES",
+      "observation_start": "2007-12-29",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_NX6GGz",
+      "symbol": "$SIC.4213",
+      "name": "Trucking, Except Local",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Trucking, Except Local",
+      "observation_start": "2008-12-27",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_2zvxNg",
+      "symbol": "$SIC.4210",
+      "name": "Trucking & Courier Services, Except Air",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Trucking & Courier Services, Except Air",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_0XLJDy",
+      "symbol": "$SIC.4200",
+      "name": "TRUCKING & WAREHOUSING",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "TRUCKING & WAREHOUSING",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_VXWOJX",
+      "symbol": "$SIC.40",
+      "name": "Transportation, Communications, Eletric, Gas and Sanitary Services",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Transportation, Communications, Eletric, Gas and Sanitary Services",
+      "observation_start": "2007-09-29",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_NgYnGX",
+      "symbol": "$SIC.4832",
+      "name": "Radio Broadcasting Stations",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Radio Broadcasting Stations",
+      "observation_start": "2008-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_NgPQvX",
+      "symbol": "$SIC.4830",
+      "name": "Radio & Television Broadcasting",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Radio & Television Broadcasting",
+      "observation_start": "2007-12-30",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_qzEbBy",
+      "symbol": "$SIC.4800",
+      "name": "COMMUNICATIONS",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "COMMUNICATIONS",
+      "observation_start": "2007-09-29",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_dXOrKg",
+      "symbol": "$SIC.3320",
+      "name": "Iron & Steel Foundries",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Iron & Steel Foundries",
+      "observation_start": "2008-03-30",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_Dzolny",
+      "symbol": "$SIC.3300",
+      "name": "PRIMARY METAL INDUSTRIES",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "PRIMARY METAL INDUSTRIES",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_nzJbNz",
+      "symbol": "$SIC.3674",
+      "name": "Semiconductors & Related Devices",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Semiconductors & Related Devices",
+      "observation_start": "2007-10-28",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_bzqRpy",
+      "symbol": "$SIC.3670",
+      "name": "Electronic Components & Accessories",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Electronic Components & Accessories",
+      "observation_start": "2007-10-28",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_AXGrAg",
+      "symbol": "$SIC.3600",
+      "name": "ELECTRONIC & OTHER ELECTRIC INDUSTRIES",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "ELECTRONIC & OTHER ELECTRIC INDUSTRIES",
+      "observation_start": "2007-09-30",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_PypRZX",
+      "symbol": "$SIC.5090",
+      "name": "Miscellaneous Durable Goods",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Miscellaneous Durable Goods",
+      "observation_start": "2008-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_xgxYWX",
+      "symbol": "$SIC.5000",
+      "name": "WHOLESALE TRADE - DURABLE GOODS",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "WHOLESALE TRADE - DURABLE GOODS",
+      "observation_start": "2007-09-28",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_BgkpOX",
+      "symbol": "$SIC.50",
+      "name": "Wholesale Trade",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Wholesale Trade",
+      "observation_start": "2007-09-28",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_agjvrg",
+      "symbol": "$SIC.3532",
+      "name": "Mining Machinery",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Mining Machinery",
+      "observation_start": "2007-10-26",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_kylwdz",
+      "symbol": "$SIC.3530",
+      "name": "Construction & Related Machinery",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Construction & Related Machinery",
+      "observation_start": "2007-10-26",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_wy3rDz",
+      "symbol": "$SIC.3500",
+      "name": "INDUSTRIAL MACHINERY & EQUIPMENT",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "INDUSTRIAL MACHINERY & EQUIPMENT",
+      "observation_start": "2007-09-29",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_jyRvly",
+      "symbol": "$SIC.3081",
+      "name": "Unsupported Plastics Film & Sheet",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Unsupported Plastics Film & Sheet",
+      "observation_start": "2009-10-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_0gN8qz",
+      "symbol": "$SIC.3080",
+      "name": "Miscellaneous Plastics Products, nec",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Miscellaneous Plastics Products, nec",
+      "observation_start": "2008-12-27",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_5ydKJz",
+      "symbol": "$SIC.3000",
+      "name": "RUBBER & MISCELLANEOUS PLASTICS PRODUCTS",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "RUBBER & MISCELLANEOUS PLASTICS PRODUCTS",
+      "observation_start": "2008-05-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_ByKkvy",
+      "symbol": "$SIC.2836",
+      "name": "Biological Products, Except Diagnostic",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Biological Products, Except Diagnostic",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_mgwWYg",
+      "symbol": "$SIC.2830",
+      "name": "Drugs",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Drugs",
+      "observation_start": "2007-12-30",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_Qz88bz",
+      "symbol": "$SIC.2800",
+      "name": "CHEMICALS & ALLIED PRODUCTS",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "CHEMICALS & ALLIED PRODUCTS",
+      "observation_start": "2007-09-30",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_bXZYPg",
+      "symbol": "$SIC.8062",
+      "name": "General Medical & Surgical Hospitals",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "General Medical & Surgical Hospitals",
+      "observation_start": "2008-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_9Xal6g",
+      "symbol": "$SIC.8060",
+      "name": "Hospitals",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Hospitals",
+      "observation_start": "2008-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_RzmqAz",
+      "symbol": "$SIC.8000",
+      "name": "HEALTH SERVICE",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "HEALTH SERVICE",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_2gB70X",
+      "symbol": "$SIC.4731",
+      "name": "Freight Transportation Arrangement",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Freight Transportation Arrangement",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_NXnlVy",
+      "symbol": "$SIC.4730",
+      "name": "Freight Transportation Arrangement",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Freight Transportation Arrangement",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_Eg4Q6X",
+      "symbol": "$SIC.4700",
+      "name": "TRANSPORTATION SERVICES",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "TRANSPORTATION SERVICES",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_2z95lz",
+      "symbol": "$SIC.5211",
+      "name": "Lumber & Other Building Materials",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Lumber & Other Building Materials",
+      "observation_start": "2008-02-01",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_Dg25ey",
+      "symbol": "$SIC.5210",
+      "name": "Lumber & Other Building Materials",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Lumber & Other Building Materials",
+      "observation_start": "2008-02-01",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_EgAa5g",
+      "symbol": "$SIC.5200",
+      "name": "BUILDING MATERIALS & GARDEN SUPPLIES",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "BUILDING MATERIALS & GARDEN SUPPLIES",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_ogDk5y",
+      "symbol": "$SIC.8111",
+      "name": "Legal Services",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Legal Services",
+      "observation_start": "2009-11-28",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_ozMedz",
+      "symbol": "$SIC.8110",
+      "name": "Legal Services",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Legal Services",
+      "observation_start": "2009-11-28",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_5X7KNX",
+      "symbol": "$SIC.8100",
+      "name": "LEGAL SERVICES",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "LEGAL SERVICES",
+      "observation_start": "2009-11-28",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_qgeoNz",
+      "symbol": "$SIC.2990",
+      "name": "Miscellaneous Petroleum & Coal Products",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Miscellaneous Petroleum & Coal Products",
+      "observation_start": "2009-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_4zrJ6z",
+      "symbol": "$SIC.2900",
+      "name": "PETROLEUM & COAL PRODUCTS",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "PETROLEUM & COAL PRODUCTS",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_0ybW7g",
+      "symbol": "$SIC.4813",
+      "name": "Telephone Communications, Except Radio",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Telephone Communications, Except Radio",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_Wy1EPy",
+      "symbol": "$SIC.4810",
+      "name": "Telephone Communications",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Telephone Communications",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_xgQ89y",
+      "symbol": "$SIC.2510",
+      "name": "Household Furniture",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Household Furniture",
+      "observation_start": "2008-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_rg03my",
+      "symbol": "$SIC.2500",
+      "name": "FURNITURE & FIXTURES",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "FURNITURE & FIXTURES",
+      "observation_start": "2007-09-30",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_Kz59Nz",
+      "symbol": "$SIC.4812",
+      "name": "Radiotelephone Communications",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Radiotelephone Communications",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_pgVB6g",
+      "symbol": "$SIC.3290",
+      "name": "Miscellaneous Nonmetallic Mineral Products",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Miscellaneous Nonmetallic Mineral Products",
+      "observation_start": "2008-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_NX6QGg",
+      "symbol": "$SIC.2520",
+      "name": "Office Furniture",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Office Furniture",
+      "observation_start": "2009-01-03",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_2zvNNz",
+      "symbol": "$SIC.7374",
+      "name": "Data Processing & Preparation",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Data Processing & Preparation",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_0XLRDy",
+      "symbol": "$SIC.7370",
+      "name": "Computer & Data Processing Services",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Computer & Data Processing Services",
+      "observation_start": "2007-11-30",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_VXWMJy",
+      "symbol": "$SIC.7841",
+      "name": "Video Tape Rental",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Video Tape Rental",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_NgYoGz",
+      "symbol": "$SIC.7840",
+      "name": "Video Tape Rental",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Video Tape Rental",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_NgPVvz",
+      "symbol": "$SIC.7800",
+      "name": "MOTION PICTURES",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "MOTION PICTURES",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_qzEMBz",
+      "symbol": "$SIC.5031",
+      "name": "Lumber, Plywood & Millwork",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Lumber, Plywood & Millwork",
+      "observation_start": "2010-01-02",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_dXOeKy",
+      "symbol": "$SIC.5030",
+      "name": "Lumber & Construction Materials",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Lumber & Construction Materials",
+      "observation_start": "2009-09-30",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_Dzomng",
+      "symbol": "$SIC.2670",
+      "name": "Miscellaneous Converted Paper Products",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Miscellaneous Converted Paper Products",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_nzJBNz",
+      "symbol": "$SIC.2600",
+      "name": "PAPER & ALLIED PRODUCTS",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "PAPER & ALLIED PRODUCTS",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_bzqapz",
+      "symbol": "$SIC.2621",
+      "name": "Paper Mills",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Paper Mills",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_pgVB2g",
+      "symbol": "$SIC.2620",
+      "name": "Paper Mills",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Paper Mills",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_NX6Qag",
+      "symbol": "$SIC.6552",
+      "name": "Subdividers & Developers, nec",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Subdividers & Developers, nec",
+      "observation_start": "2008-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_2zvNvz",
+      "symbol": "$SIC.6550",
+      "name": "Subdividers & Developers",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Subdividers & Developers",
+      "observation_start": "2008-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_0XLRdy",
+      "symbol": "$SIC.6500",
+      "name": "REAL ESTATE",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "REAL ESTATE",
+      "observation_start": "2008-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_VXWM6y",
+      "symbol": "$SIC.60",
+      "name": "Finance, Insurance, and Real Estate",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Finance, Insurance, and Real Estate",
+      "observation_start": "2006-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_NgYoVz",
+      "symbol": "$SIC.3612",
+      "name": "Transformers, Except Electronic",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Transformers, Except Electronic",
+      "observation_start": "2010-06-30",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_NgPVaz",
+      "symbol": "$SIC.3610",
+      "name": "Electric Distribution Equipment",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Electric Distribution Equipment",
+      "observation_start": "2009-09-30",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_qzEMWz",
+      "symbol": "$SIC.8082",
+      "name": "Home Health Care Services",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Home Health Care Services",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_dXOeGy",
+      "symbol": "$SIC.8080",
+      "name": "Home Health Care Services",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Home Health Care Services",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_Dzomeg",
+      "symbol": "$SIC.5912",
+      "name": "Drug Stores & Proprietary Stores",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Drug Stores & Proprietary Stores",
+      "observation_start": "2007-12-29",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_nzJB6z",
+      "symbol": "$SIC.5910",
+      "name": "Drug Stores & Proprietary Stores",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Drug Stores & Proprietary Stores",
+      "observation_start": "2007-12-29",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_bzqaBz",
+      "symbol": "$SIC.3714",
+      "name": "Motor Vehicle Parts & Accessories",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Motor Vehicle Parts & Accessories",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_AXGZ5g",
+      "symbol": "$SIC.3710",
+      "name": "Motor Vehicles & Equipment",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Motor Vehicles & Equipment",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_PypOLz",
+      "symbol": "$SIC.3700",
+      "name": "TRANSPORTATION EQUIPMENT",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "TRANSPORTATION EQUIPMENT",
+      "observation_start": "2007-09-30",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_xgxM8X",
+      "symbol": "$SIC.700",
+      "name": "AGRICULTURAL SERVICES",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "AGRICULTURAL SERVICES",
+      "observation_start": "2008-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_BgkdAX",
+      "symbol": "$SIC.1",
+      "name": "Agriculture, Forestry, And Fishing",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Agriculture, Forestry, And Fishing",
+      "observation_start": "2008-12-26",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_agjl7z",
+      "symbol": "$SIC.4841",
+      "name": "Cable & Other Pay TV Services",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Cable & Other Pay TV Services",
+      "observation_start": "2007-09-29",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_kylk4z",
+      "symbol": "$SIC.4840",
+      "name": "Cable & Other Pay TV Services",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Cable & Other Pay TV Services",
+      "observation_start": "2007-09-29",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_wy3QVX",
+      "symbol": "$SIC.3851",
+      "name": "Ophthalmic Goods",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Ophthalmic Goods",
+      "observation_start": "2008-10-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_jyR87X",
+      "symbol": "$SIC.3850",
+      "name": "Ophthalmic Goods",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Ophthalmic Goods",
+      "observation_start": "2008-10-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_0gNQvy",
+      "symbol": "$SIC.3800",
+      "name": "INSTRUMENTS & RELATED PRODUCTS",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "INSTRUMENTS & RELATED PRODUCTS",
+      "observation_start": "2007-09-28",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_5yd9Lg",
+      "symbol": "$SIC.3140",
+      "name": "Footwear, Except Rubber",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Footwear, Except Rubber",
+      "observation_start": "2008-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_ByKoxy",
+      "symbol": "$SIC.3100",
+      "name": "LEATHER & ALLIED PRODUCTS",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "LEATHER & ALLIED PRODUCTS",
+      "observation_start": "2008-06-28",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_mgwdQX",
+      "symbol": "$SIC.2870",
+      "name": "Agricultural Chemicals",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Agricultural Chemicals",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_Qz8Bdg",
+      "symbol": "$SIC.3678",
+      "name": "Electronic Connectors",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Electronic Connectors",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_bXZjoX",
+      "symbol": "$SIC.4953",
+      "name": "Refuse Systems",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Refuse Systems",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_9XaL5g",
+      "symbol": "$SIC.4950",
+      "name": "Sanitary Services",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Sanitary Services",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_RzmlOX",
+      "symbol": "$SIC.4900",
+      "name": "ELECTRIC, GAS & SANITARY SERVICES",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "ELECTRIC, GAS & SANITARY SERVICES",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_2gBbwg",
+      "symbol": "$SIC.3312",
+      "name": "Blast Furnaces & Steel Mills",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Blast Furnaces & Steel Mills",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_NXnbRX",
+      "symbol": "$SIC.3310",
+      "name": "Blast Furnace & Basic Steel Products",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Blast Furnace & Basic Steel Products",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_Eg4M9X",
+      "symbol": "$SIC.1040",
+      "name": "Gold & Silver Ores",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Gold & Silver Ores",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_2z9QBz",
+      "symbol": "$SIC.1000",
+      "name": "METAL MINING",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "METAL MINING",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_Dg2DBz",
+      "symbol": "$SIC.10",
+      "name": "Mining",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Mining",
+      "observation_start": "2007-09-30",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_EgADay",
+      "symbol": "$SIC.4899",
+      "name": "Communications Services, nec",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Communications Services, nec",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_ogDbDz",
+      "symbol": "$SIC.4890",
+      "name": "Communications Services, nec",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Communications Services, nec",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_ozM99z",
+      "symbol": "$SIC.3661",
+      "name": "Telephone & Telegraph Apparatus",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Telephone & Telegraph Apparatus",
+      "observation_start": "2008-10-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_5X7Aly",
+      "symbol": "$SIC.3660",
+      "name": "Communications Equipment",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Communications Equipment",
+      "observation_start": "2007-09-30",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_qgeOEz",
+      "symbol": "$SIC.2590",
+      "name": "Miscellaneous Furniture & Fixtures",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Miscellaneous Furniture & Fixtures",
+      "observation_start": "2009-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_4zr2kz",
+      "symbol": "$SIC.3555",
+      "name": "Printing Trades Machinery",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Printing Trades Machinery",
+      "observation_start": "2011-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_0ybnNy",
+      "symbol": "$SIC.3550",
+      "name": "Special Industry Machinery",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Special Industry Machinery",
+      "observation_start": "2008-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_Wy1pVz",
+      "symbol": "$SIC.8071",
+      "name": "Medical Laboratories",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Medical Laboratories",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_xgQMDg",
+      "symbol": "$SIC.8070",
+      "name": "Medical & Dental Laboratories",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Medical & Dental Laboratories",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_rg0rNz",
+      "symbol": "$SIC.3949",
+      "name": "Sporting & Athletic Goods, nec",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Sporting & Athletic Goods, nec",
+      "observation_start": "2009-12-26",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_Kz5rmy",
+      "symbol": "$SIC.3940",
+      "name": "Toys & Sporting Goods",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Toys & Sporting Goods",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_pgVP2z",
+      "symbol": "$SIC.3900",
+      "name": "MISCELLANEOUS MANUFACTURING INDUSTRIES",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "MISCELLANEOUS MANUFACTURING INDUSTRIES",
+      "observation_start": "2007-09-30",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_NX6day",
+      "symbol": "$SIC.3357",
+      "name": "Nonferrous Wiredrawing & Insulating",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Nonferrous Wiredrawing & Insulating",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_2zv2vz",
+      "symbol": "$SIC.3350",
+      "name": "Nonferrous Rolling & Drawing",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Nonferrous Rolling & Drawing",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_0XLDdX",
+      "symbol": "$SIC.7822",
+      "name": "Motion Picture & Tape Distribution",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Motion Picture & Tape Distribution",
+      "observation_start": "2011-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_VXWB6g",
+      "symbol": "$SIC.7820",
+      "name": "Motion Picture Distribution & Services",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Motion Picture Distribution & Services",
+      "observation_start": "2011-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_NgYWVz",
+      "symbol": "$SIC.5190",
+      "name": "Miscellaneous Nondurable Goods",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Miscellaneous Nondurable Goods",
+      "observation_start": "2008-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_NgPraz",
+      "symbol": "$SIC.5100",
+      "name": "WHOLESALE TRADE - NONDURABLE GOODS",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "WHOLESALE TRADE - NONDURABLE GOODS",
+      "observation_start": "2007-09-30",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_qzEjWy",
+      "symbol": "$SIC.2750",
+      "name": "Commercial Printing",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Commercial Printing",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_dXOpGz",
+      "symbol": "$SIC.2700",
+      "name": "PRINTING & PUBLISHING",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "PRINTING & PUBLISHING",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_DzobeX",
+      "symbol": "$SIC.5621",
+      "name": "Women's Clothing Stores",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Women's Clothing Stores",
+      "observation_start": "2008-02-02",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_nzJ26z",
+      "symbol": "$SIC.5620",
+      "name": "Women's Clothing Stores",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Women's Clothing Stores",
+      "observation_start": "2008-02-02",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_bzqkBg",
+      "symbol": "$SIC.5600",
+      "name": "APPAREL & ACCESSORY STORES",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "APPAREL & ACCESSORY STORES",
+      "observation_start": "2008-01-26",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_AXGM5y",
+      "symbol": "$SIC.5084",
+      "name": "Industrial Machinery & Equipment",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Industrial Machinery & Equipment",
+      "observation_start": "2009-03-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_PypxLy",
+      "symbol": "$SIC.5080",
+      "name": "Machinery Equipment & Supplies",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Machinery Equipment & Supplies",
+      "observation_start": "2009-03-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_xgx08g",
+      "symbol": "$SIC.2810",
+      "name": "Industrial Inorganic Chemicals",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Industrial Inorganic Chemicals",
+      "observation_start": "2007-09-30",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_BgkKAg",
+      "symbol": "$SIC.2082",
+      "name": "Malt Beverages",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Malt Beverages",
+      "observation_start": "2007-12-30",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_agj57y",
+      "symbol": "$SIC.2080",
+      "name": "Beverages",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Beverages",
+      "observation_start": "2007-12-29",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_kylR4X",
+      "symbol": "$SIC.3640",
+      "name": "Electric Lighting & Wiring Equipment",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Electric Lighting & Wiring Equipment",
+      "observation_start": "2008-06-30",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_wy3oVy",
+      "symbol": "$SIC.3590",
+      "name": "Industrial Machinery, nec",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Industrial Machinery, nec",
+      "observation_start": "2008-09-27",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_jyRK7g",
+      "symbol": "$SIC.2844",
+      "name": "Perfumes & Cosmetics -Toilet Preparations",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Perfumes & Cosmetics -Toilet Preparations",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_0gNZvg",
+      "symbol": "$SIC.2840",
+      "name": "Soap, Cleaners & Toilet Goods",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Soap, Cleaners & Toilet Goods",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_5ydPLy",
+      "symbol": "$SIC.3021",
+      "name": "Rubber & Plastics Footwear",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Rubber & Plastics Footwear",
+      "observation_start": "2008-05-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_ByK1xX",
+      "symbol": "$SIC.3020",
+      "name": "Rubber & Plastics Footwear",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Rubber & Plastics Footwear",
+      "observation_start": "2008-05-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_mgw2Qy",
+      "symbol": "$SIC.2833",
+      "name": "Medicinals & Botanicals",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Medicinals & Botanicals",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_Qz8Qdy",
+      "symbol": "$SIC.3570",
+      "name": "Computer & Office Equipment",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Computer & Office Equipment",
+      "observation_start": "2007-09-29",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_bXZMog",
+      "symbol": "$SIC.5063",
+      "name": "Electrical Apparatus & Equipment",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Electrical Apparatus & Equipment",
+      "observation_start": "2008-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_9Xa25z",
+      "symbol": "$SIC.5060",
+      "name": "Electrical Goods",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Electrical Goods",
+      "observation_start": "2007-09-28",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_RzmYOz",
+      "symbol": "$SIC.7373",
+      "name": "Computer Integrated Systems Design",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Computer Integrated Systems Design",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_2gBmwy",
+      "symbol": "$SIC.3715",
+      "name": "Truck Trailers",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Truck Trailers",
+      "observation_start": "2009-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_NXnwRz",
+      "symbol": "$SIC.2011",
+      "name": "Meat Packing Plants",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Meat Packing Plants",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_Eg4q9X",
+      "symbol": "$SIC.2010",
+      "name": "Meat Products",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Meat Products",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_2z9OBg",
+      "symbol": "$SIC.4512",
+      "name": "Air Transportation, Scheduled",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Air Transportation, Scheduled",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_Dg2oBX",
+      "symbol": "$SIC.4510",
+      "name": "Air Transportation, Scheduled",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Air Transportation, Scheduled",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_EgA9ag",
+      "symbol": "$SIC.4500",
+      "name": "TRANSPORT BY AIR",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "TRANSPORT BY AIR",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_ogDaDX",
+      "symbol": "$SIC.6311",
+      "name": "Life Insurance",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Life Insurance",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_ozMr9y",
+      "symbol": "$SIC.6310",
+      "name": "Life Insurance",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Life Insurance",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_5X7llz",
+      "symbol": "$SIC.6300",
+      "name": "INSURANCE CARRIERS",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "INSURANCE CARRIERS",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_qgejEX",
+      "symbol": "$SIC.2200",
+      "name": "TEXTILE MILL PRODUCTS",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "TEXTILE MILL PRODUCTS",
+      "observation_start": "2008-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_4zrdkg",
+      "symbol": "$SIC.6510",
+      "name": "Real Estate Operators & Lessors",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Real Estate Operators & Lessors",
+      "observation_start": "2009-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_0yb2Ny",
+      "symbol": "$SIC.8742",
+      "name": "Management Consulting Services",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Management Consulting Services",
+      "observation_start": "2008-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_Wy1rVg",
+      "symbol": "$SIC.8740",
+      "name": "Management & Public Relations",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Management & Public Relations",
+      "observation_start": "2008-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_xgQvDX",
+      "symbol": "$SIC.8700",
+      "name": "ENGINEERING & MANAGEMENT SERVICES",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "ENGINEERING & MANAGEMENT SERVICES",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_rg0kNy",
+      "symbol": "$SIC.2221",
+      "name": "Broadwoven Fabric Mills, Manmade",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Broadwoven Fabric Mills, Manmade",
+      "observation_start": "2009-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_Kz5Amz",
+      "symbol": "$SIC.2220",
+      "name": "Broadwoven Fabric Mills, Manmade",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Broadwoven Fabric Mills, Manmade",
+      "observation_start": "2009-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_pgVO2X",
+      "symbol": "$SIC.6159",
+      "name": "Misc. Business Credit Institutions",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Misc. Business Credit Institutions",
+      "observation_start": "2008-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_NX65ag",
+      "symbol": "$SIC.6150",
+      "name": "Business Credit Institutions",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Business Credit Institutions",
+      "observation_start": "2008-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_2zvLvg",
+      "symbol": "$SIC.6100",
+      "name": "NONDEPOSITORY INSTITUTIONS",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "NONDEPOSITORY INSTITUTIONS",
+      "observation_start": "2007-11-30",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_0XLrdy",
+      "symbol": "$SIC.5094",
+      "name": "Jewelry & Precious Stones",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Jewelry & Precious Stones",
+      "observation_start": "2012-06-30",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_VXWJ6g",
+      "symbol": "$SIC.6792",
+      "name": "Oil Royalty Traders",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Oil Royalty Traders",
+      "observation_start": "2009-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_NgYJVX",
+      "symbol": "$SIC.6790",
+      "name": "Miscellaneous Investing",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Miscellaneous Investing",
+      "observation_start": "2006-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_NgP6az",
+      "symbol": "$SIC.6700",
+      "name": "HOLDING & OTHER INVESTMENT OFFICES",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "HOLDING & OTHER INVESTMENT OFFICES",
+      "observation_start": "2006-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_qzEmWz",
+      "symbol": "$SIC.2330",
+      "name": "Women's & Misses' Outerwear",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Women's & Misses' Outerwear",
+      "observation_start": "2010-01-02",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_dXOVGg",
+      "symbol": "$SIC.2300",
+      "name": "APPAREL & OTHER TEXTILE PRODUCTS",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "APPAREL & OTHER TEXTILE PRODUCTS",
+      "observation_start": "2007-12-29",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_Dzodey",
+      "symbol": "$SIC.8880",
+      "name": "American Depositary Receipts",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "American Depositary Receipts",
+      "observation_start": null,
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_nzJ16X",
+      "symbol": "$SIC.99",
+      "name": "Miscellaneous",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Miscellaneous",
+      "observation_start": "2010-06-30",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_bzqdBX",
+      "symbol": "$SIC.4911",
+      "name": "Electric Services",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Electric Services",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_pgVOWX",
+      "symbol": "$SIC.4910",
+      "name": "Electric Services",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Electric Services",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_NX65Ng",
+      "symbol": "$SIC.4922",
+      "name": "Natural Gas Transmission",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Natural Gas Transmission",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_2zvLKg",
+      "symbol": "$SIC.4920",
+      "name": "Gas Production & Distribution",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Gas Production & Distribution",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_0XLrPy",
+      "symbol": "$SIC.3011",
+      "name": "Tires & Inner Tubes",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Tires & Inner Tubes",
+      "observation_start": "2008-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_VXWJ0g",
+      "symbol": "$SIC.3010",
+      "name": "Tires & Inner Tubes",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Tires & Inner Tubes",
+      "observation_start": "2008-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_NgYJ4X",
+      "symbol": "$SIC.3841",
+      "name": "Surgical & Medical Instruments",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Surgical & Medical Instruments",
+      "observation_start": "2007-09-30",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_NgP6nz",
+      "symbol": "$SIC.3840",
+      "name": "Medical Instruments & Supplies",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Medical Instruments & Supplies",
+      "observation_start": "2007-09-28",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_qzEmnz",
+      "symbol": "$SIC.1600",
+      "name": "HEAVY CONSTRUCTION, EXCEPT BUILDING",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "HEAVY CONSTRUCTION, EXCEPT BUILDING",
+      "observation_start": "2007-09-28",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_dXOVLg",
+      "symbol": "$SIC.15",
+      "name": "Construction",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Construction",
+      "observation_start": "2007-09-28",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_Dzodxy",
+      "symbol": "$SIC.2086",
+      "name": "Bottled & Canned Soft Drinks",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Bottled & Canned Soft Drinks",
+      "observation_start": "2008-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_nzJ1pX",
+      "symbol": "$SIC.6519",
+      "name": "Real Property Lessors, nec",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Real Property Lessors, nec",
+      "observation_start": "2009-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_bzqdQX",
+      "symbol": "$SIC.3823",
+      "name": "Process Control Instruments",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Process Control Instruments",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_AXG9Vy",
+      "symbol": "$SIC.3820",
+      "name": "Measuring & Controlling Devices",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Measuring & Controlling Devices",
+      "observation_start": "2007-09-30",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_Pypw9z",
+      "symbol": "$SIC.4100",
+      "name": "LOCAL & INTERURBAN PASSENGER TRANSIT",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "LOCAL & INTERURBAN PASSENGER TRANSIT",
+      "observation_start": null,
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_xgx2Ez",
+      "symbol": "$SIC.7389",
+      "name": "Trade Shows & Fairs",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Trade Shows & Fairs",
+      "observation_start": "2007-09-30",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_BgkmPz",
+      "symbol": "$SIC.3524",
+      "name": "Lawn & Garden Equipment",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Lawn & Garden Equipment",
+      "observation_start": "2008-10-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_agjpwz",
+      "symbol": "$SIC.3520",
+      "name": "Farm & Garden Machinery",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Farm & Garden Machinery",
+      "observation_start": "2007-10-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_kylnlX",
+      "symbol": "$SIC.2890",
+      "name": "Miscellaneous Chemical Products",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Miscellaneous Chemical Products",
+      "observation_start": "2008-09-30",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_wy3K4y",
+      "symbol": "$SIC.8741",
+      "name": "Management Services",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Management Services",
+      "observation_start": "2008-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_jyRLMX",
+      "symbol": "$SIC.3576",
+      "name": "Computer Communications Equipment",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Computer Communications Equipment",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_0gNe9y",
+      "symbol": "$SIC.3577",
+      "name": "Computer Peripheral Equipment, nec",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Computer Peripheral Equipment, nec",
+      "observation_start": "2009-03-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_5ydEKg",
+      "symbol": "$SIC.3433",
+      "name": "Heating Equipment, Except Electric",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Heating Equipment, Except Electric",
+      "observation_start": "2013-09-30",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_ByKBoz",
+      "symbol": "$SIC.3430",
+      "name": "Plumbing & Heating, Except Electric",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Plumbing & Heating, Except Electric",
+      "observation_start": "2010-06-30",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_mgwR2y",
+      "symbol": "$SIC.3400",
+      "name": "FABRICATED METAL PRODUCTS",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "FABRICATED METAL PRODUCTS",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_Qz8Llz",
+      "symbol": "$SIC.5731",
+      "name": "Radio, TV & Electronic Stores",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Radio, TV & Electronic Stores",
+      "observation_start": "2008-03-01",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_bXZGGz",
+      "symbol": "$SIC.5730",
+      "name": "Radio, Television & Computer Stores",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Radio, Television & Computer Stores",
+      "observation_start": "2008-02-02",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_9XaW8y",
+      "symbol": "$SIC.3562",
+      "name": "Ball & Roller Bearings",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Ball & Roller Bearings",
+      "observation_start": "2008-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_RzmdmX",
+      "symbol": "$SIC.3560",
+      "name": "General Industry Machinery",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "General Industry Machinery",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_2gBZMg",
+      "symbol": "$SIC.6331",
+      "name": "Fire, Marine & Casualty Insurance",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Fire, Marine & Casualty Insurance",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_NXnP4y",
+      "symbol": "$SIC.6330",
+      "name": "Fire, Marine & Casualty Insurance",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Fire, Marine & Casualty Insurance",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_Eg4jNz",
+      "symbol": "$SIC.1623",
+      "name": "Water, Sewer & Utility Lines",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Water, Sewer & Utility Lines",
+      "observation_start": "2009-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_2z9Wkg",
+      "symbol": "$SIC.1620",
+      "name": "Heavy Construction, Except Highway",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Heavy Construction, Except Highway",
+      "observation_start": "2009-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_Dg2r9g",
+      "symbol": "$SIC.7990",
+      "name": "Misc. Amusement & Recreation Services",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Misc. Amusement & Recreation Services",
+      "observation_start": "2008-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_EgA8Oy",
+      "symbol": "$SIC.7900",
+      "name": "AMUSEMENT & RECREATIONAL SERVICES",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "AMUSEMENT & RECREATIONAL SERVICES",
+      "observation_start": "2008-11-30",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_ogDwOy",
+      "symbol": "$SIC.2452",
+      "name": "Prefabricated Wood Buildings",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Prefabricated Wood Buildings",
+      "observation_start": "2010-06-30",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_ozMbMy",
+      "symbol": "$SIC.2450",
+      "name": "Wood Buildings & Mobile Homes",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Wood Buildings & Mobile Homes",
+      "observation_start": "2010-03-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_5X7v6g",
+      "symbol": "$SIC.2400",
+      "name": "LUMBER & WOOD PRODUCTS",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "LUMBER & WOOD PRODUCTS",
+      "observation_start": "2008-06-30",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_qgeEGg",
+      "symbol": "$SIC.6513",
+      "name": "Apartment Building Operators",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Apartment Building Operators",
+      "observation_start": "2009-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_4zrm8X",
+      "symbol": "$SIC.3452",
+      "name": "Bolts, Nuts, Rivets & Washers",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Bolts, Nuts, Rivets & Washers",
+      "observation_start": "2010-06-30",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_0ybrZy",
+      "symbol": "$SIC.3450",
+      "name": "Screw Machine Products, Bolts, Etc.",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Screw Machine Products, Bolts, Etc.",
+      "observation_start": "2010-06-30",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_Wy1jvg",
+      "symbol": "$SIC.2090",
+      "name": "Miscellaneous Food & Kindred Products",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Miscellaneous Food & Kindred Products",
+      "observation_start": "2008-09-27",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_xgQ1Gg",
+      "symbol": "$SIC.3824",
+      "name": "Fluid Meters & Counting Devices",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Fluid Meters & Counting Devices",
+      "observation_start": "2009-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_rg0GRy",
+      "symbol": "$SIC.2013",
+      "name": "Sausages & Other Prepared Meats",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Sausages & Other Prepared Meats",
+      "observation_start": "2010-07-09",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_Kz5VOy",
+      "symbol": "$SIC.6324",
+      "name": "Hospital & Medical Service Plans",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Hospital & Medical Service Plans",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_pgVrWg",
+      "symbol": "$SIC.6320",
+      "name": "Medical Service & Health Insurance",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Medical Service & Health Insurance",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_NX66NX",
+      "symbol": "$SIC.5990",
+      "name": "Retail Stores, nec",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Retail Stores, nec",
+      "observation_start": "2008-09-30",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_2zv9KX",
+      "symbol": "$SIC.3460",
+      "name": "Metal Forgings & Stampings",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Metal Forgings & Stampings",
+      "observation_start": "2009-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_0XL5Pz",
+      "symbol": "$SIC.2834",
+      "name": "Pharmaceutical Preparations",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Pharmaceutical Preparations",
+      "observation_start": "2007-12-30",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_VXWo0X",
+      "symbol": "$SIC.5150",
+      "name": "Farm-Product Raw Materials",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Farm-Product Raw Materials",
+      "observation_start": "2008-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_NgYG4z",
+      "symbol": "$SIC.5130",
+      "name": "Apparel, Piece Goods & Notations",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Apparel, Piece Goods & Notations",
+      "observation_start": "2009-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_NgP5nX",
+      "symbol": "$SIC.3873",
+      "name": "Watches, Clocks, Watchcases & Parts",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Watches, Clocks, Watchcases & Parts",
+      "observation_start": "2009-01-03",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_qzEwng",
+      "symbol": "$SIC.3870",
+      "name": "Watches, Clocks, Watchcases & Parts",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Watches, Clocks, Watchcases & Parts",
+      "observation_start": "2009-01-03",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_dXO9Ly",
+      "symbol": "$SIC.6798",
+      "name": "Real Estate Investment Trusts",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Real Estate Investment Trusts",
+      "observation_start": "2006-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_Dzo5xg",
+      "symbol": "$SIC.3844",
+      "name": "X-Ray Apparatus & Tubes",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "X-Ray Apparatus & Tubes",
+      "observation_start": "2007-09-29",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_nzJOpy",
+      "symbol": "$SIC.3086",
+      "name": "Plastics Foam Products",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Plastics Foam Products",
+      "observation_start": "2009-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_bzq0QX",
+      "symbol": "$SIC.3716",
+      "name": "Motor Homes",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Motor Homes",
+      "observation_start": "2009-07-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_AXGwVX",
+      "symbol": "$SIC.5140",
+      "name": "Groceries & Related Products",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Groceries & Related Products",
+      "observation_start": "2008-06-28",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_PypK9z",
+      "symbol": "$SIC.3561",
+      "name": "Pumps & Pumping Equipment",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Pumps & Pumping Equipment",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_xgxjEz",
+      "symbol": "$SIC.2835",
+      "name": "Diagnostic Substances",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Diagnostic Substances",
+      "observation_start": "2008-09-30",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_BgkRPy",
+      "symbol": "$SIC.6199",
+      "name": "Financial Services",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Financial Services",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_agjNwg",
+      "symbol": "$SIC.6190",
+      "name": "Financial Services",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Financial Services",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_kylxly",
+      "symbol": "$SIC.8051",
+      "name": "Skilled Nursing Care Facilities",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Skilled Nursing Care Facilities",
+      "observation_start": "2009-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_wy3w4y",
+      "symbol": "$SIC.8050",
+      "name": "Nursing & Personal Care Facilities",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Nursing & Personal Care Facilities",
+      "observation_start": "2008-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_jyR9Mz",
+      "symbol": "$SIC.3578",
+      "name": "Calculating & Accounting Equipment",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Calculating & Accounting Equipment",
+      "observation_start": "2008-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_0gNV9g",
+      "symbol": "$SIC.8734",
+      "name": "Testing Laboratories",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Testing Laboratories",
+      "observation_start": "2010-06-30",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_5ydNKX",
+      "symbol": "$SIC.8730",
+      "name": "Research & Testing Services",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Research & Testing Services",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_ByK4og",
+      "symbol": "$SIC.5311",
+      "name": "Department Stores",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Department Stores",
+      "observation_start": "2008-02-02",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_mgwk2g",
+      "symbol": "$SIC.5310",
+      "name": "Department Stores",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Department Stores",
+      "observation_start": "2008-02-02",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_Qz8wlX",
+      "symbol": "$SIC.5300",
+      "name": "GENERAL MERCHANDISE STORES",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "GENERAL MERCHANDISE STORES",
+      "observation_start": "2008-01-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_bXZdGy",
+      "symbol": "$SIC.3569",
+      "name": "General Industrial Machinery, nec",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "General Industrial Machinery, nec",
+      "observation_start": "2008-10-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_9Xa88g",
+      "symbol": "$SIC.5051",
+      "name": "Metals Service Centers & Offices",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Metals Service Centers & Offices",
+      "observation_start": "2008-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_Rzm2my",
+      "symbol": "$SIC.5050",
+      "name": "Metals & Minerals, Except Petroleum",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Metals & Minerals, Except Petroleum",
+      "observation_start": "2008-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_2gBVMg",
+      "symbol": "$SIC.2100",
+      "name": "TOBACCO PRODUCTS",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "TOBACCO PRODUCTS",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_NXn24X",
+      "symbol": "$SIC.3334",
+      "name": "Primary Aluminum",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Primary Aluminum",
+      "observation_start": "2009-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_Eg4ANX",
+      "symbol": "$SIC.3330",
+      "name": "Primary Nonferrous Metals",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Primary Nonferrous Metals",
+      "observation_start": "2009-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_2z9mkz",
+      "symbol": "$SIC.2790",
+      "name": "Printing Trade Services",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Printing Trade Services",
+      "observation_start": "2009-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_Dg2K9X",
+      "symbol": "$SIC.2851",
+      "name": "Paints & Allied Products",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Paints & Allied Products",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_EgAmOg",
+      "symbol": "$SIC.2850",
+      "name": "Paints & Allied Products",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Paints & Allied Products",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_ogDvOz",
+      "symbol": "$SIC.2771",
+      "name": "Greeting Cards",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Greeting Cards",
+      "observation_start": "2010-03-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_ozMlMX",
+      "symbol": "$SIC.2770",
+      "name": "Greeting Cards",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Greeting Cards",
+      "observation_start": "2010-03-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_5X7p6z",
+      "symbol": "$SIC.3720",
+      "name": "Aircraft & Parts",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Aircraft & Parts",
+      "observation_start": "2007-09-30",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_qgenGX",
+      "symbol": "$SIC.3559",
+      "name": "Special Industry Machinery, nec",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Special Industry Machinery, nec",
+      "observation_start": "2009-06-28",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_4zrk8y",
+      "symbol": "$SIC.1400",
+      "name": "NONMETALLIC MINERALS, EXCEPT FUELS",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "NONMETALLIC MINERALS, EXCEPT FUELS",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_0ybpZX",
+      "symbol": "$SIC.6221",
+      "name": "Commodity Contracts Brokers, Dealers",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Commodity Contracts Brokers, Dealers",
+      "observation_start": "2009-09-30",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_Wy1dvz",
+      "symbol": "$SIC.6220",
+      "name": "Commodity Contracts Brokers, Dealers",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Commodity Contracts Brokers, Dealers",
+      "observation_start": "2009-09-30",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_xgQLGy",
+      "symbol": "$SIC.6200",
+      "name": "SECURITY & COMMODITY BROKERS",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "SECURITY & COMMODITY BROKERS",
+      "observation_start": "2007-09-30",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_rg0DRg",
+      "symbol": "$SIC.3790",
+      "name": "Miscellaneous Transportation Equipment",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Miscellaneous Transportation Equipment",
+      "observation_start": "2008-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_Kz5dOX",
+      "symbol": "$SIC.3390",
+      "name": "Miscellaneous Primary Metal Industries",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Miscellaneous Primary Metal Industries",
+      "observation_start": "2009-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_pgVEWy",
+      "symbol": "$SIC.4013",
+      "name": "Switching & Terminal Devices",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Switching & Terminal Devices",
+      "observation_start": "2012-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_NX6DNy",
+      "symbol": "$SIC.4010",
+      "name": "Railroads",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Railroads",
+      "observation_start": "2007-12-28",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_2zvRKz",
+      "symbol": "$SIC.4000",
+      "name": "RAILROAD TRANSPORTATION",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "RAILROAD TRANSPORTATION",
+      "observation_start": "2007-12-28",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_0XL4PX",
+      "symbol": "$SIC.900",
+      "name": "FISHING, HUNTING & TRAPPING",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "FISHING, HUNTING & TRAPPING",
+      "observation_start": "2010-06-30",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_VXWE0y",
+      "symbol": "$SIC.3585",
+      "name": "Refrigeration & Heating Equipment",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Refrigeration & Heating Equipment",
+      "observation_start": "2008-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_NgY84y",
+      "symbol": "$SIC.3580",
+      "name": "Refrigeration & Service Industry",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Refrigeration & Service Industry",
+      "observation_start": "2008-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_NgPvnz",
+      "symbol": "$SIC.2741",
+      "name": "Miscellaneous Publishing",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Miscellaneous Publishing",
+      "observation_start": "2009-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_qzELnX",
+      "symbol": "$SIC.2740",
+      "name": "Miscellaneous Publishing",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Miscellaneous Publishing",
+      "observation_start": "2009-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_dXO6Lg",
+      "symbol": "$SIC.2860",
+      "name": "Industrial Organic Chemicals",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Industrial Organic Chemicals",
+      "observation_start": "2008-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_Dzo2xX",
+      "symbol": "$SIC.5013",
+      "name": "Motor Vehicle Supplies & New Parts",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Motor Vehicle Supplies & New Parts",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_nzJlpg",
+      "symbol": "$SIC.5010",
+      "name": "Motor Vehicles, Parts & Supplies",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Motor Vehicles, Parts & Supplies",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_bzqeQz",
+      "symbol": "$SIC.3579",
+      "name": "Office Machines, nec",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Office Machines, nec",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_pgVEky",
+      "symbol": "$SIC.5331",
+      "name": "Variety Stores",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Variety Stores",
+      "observation_start": "2008-01-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_NX6DJy",
+      "symbol": "$SIC.5330",
+      "name": "Variety Stores",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Variety Stores",
+      "observation_start": "2008-01-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_2zvRYz",
+      "symbol": "$SIC.3510",
+      "name": "Engines & Turbines",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Engines & Turbines",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_0XL4xX",
+      "symbol": "$SIC.3630",
+      "name": "Household Appliances",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Household Appliances",
+      "observation_start": "2008-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_VXWEWy",
+      "symbol": "$SIC.7371",
+      "name": "Computer Programming Services",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Computer Programming Services",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_NgY8by",
+      "symbol": "$SIC.2421",
+      "name": "Sawmills & Planing Mills, General",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Sawmills & Planing Mills, General",
+      "observation_start": "2009-12-26",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_NgPvlz",
+      "symbol": "$SIC.2420",
+      "name": "Sawmills & Planing Mills",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Sawmills & Planing Mills",
+      "observation_start": "2009-12-26",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_qzELoX",
+      "symbol": "$SIC.6512",
+      "name": "Nonresidential Building Operators",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Nonresidential Building Operators",
+      "observation_start": "2009-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_dXOAby",
+      "symbol": "$SIC.7011",
+      "name": "Hotels & Motels",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Hotels & Motels",
+      "observation_start": "2007-12-28",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_DzoRlX",
+      "symbol": "$SIC.7010",
+      "name": "Hotels & Motels",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Hotels & Motels",
+      "observation_start": "2007-12-28",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_nzJDBg",
+      "symbol": "$SIC.7000",
+      "name": "HOTELS & OTHER LODGING PLACES",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "HOTELS & OTHER LODGING PLACES",
+      "observation_start": "2007-12-28",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_bzqbky",
+      "symbol": "$SIC.6036",
+      "name": "Savings Institutions, Except Federal",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Savings Institutions, Except Federal",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_AXG89z",
+      "symbol": "$SIC.6030",
+      "name": "Savings Institutions",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Savings Institutions",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_PypGKz",
+      "symbol": "$SIC.6000",
+      "name": "DEPOSITORY INSTITUTIONS",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "DEPOSITORY INSTITUTIONS",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_xgxdNg",
+      "symbol": "$SIC.3760",
+      "name": "Guided Missiles, Space Vehicles, Parts",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Guided Missiles, Space Vehicles, Parts",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_Bgkkkg",
+      "symbol": "$SIC.5734",
+      "name": "Computer & Software Stores",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Computer & Software Stores",
+      "observation_start": "2008-02-02",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_agjn0g",
+      "symbol": "$SIC.7381",
+      "name": "Detective & Armored Car Services",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Detective & Armored Car Services",
+      "observation_start": "2010-06-30",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_kylKbz",
+      "symbol": "$SIC.5661",
+      "name": "Shoe Stores",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Shoe Stores",
+      "observation_start": "2009-01-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_wy3kAy",
+      "symbol": "$SIC.5660",
+      "name": "Shoe Stores",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Shoe Stores",
+      "observation_start": "2009-01-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_jyRB1y",
+      "symbol": "$SIC.5500",
+      "name": "AUTOMOTIVE DEALERS & SERVICE STATIONS",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "AUTOMOTIVE DEALERS & SERVICE STATIONS",
+      "observation_start": "2008-08-30",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_0gNw2X",
+      "symbol": "$SIC.3241",
+      "name": "Cement, Hydraulic",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Cement, Hydraulic",
+      "observation_start": "2009-03-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_5yd1ag",
+      "symbol": "$SIC.3240",
+      "name": "Cement, Hydraulic",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Cement, Hydraulic",
+      "observation_start": "2009-03-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_ByKb6z",
+      "symbol": "$SIC.3672",
+      "name": "Printed Circuit Boards",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Printed Circuit Boards",
+      "observation_start": "2008-03-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_mgwnay",
+      "symbol": "$SIC.3690",
+      "name": "Miscellaneous Electrical Equipment & Supplies",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Miscellaneous Electrical Equipment & Supplies",
+      "observation_start": "2009-09-30",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_Qz8xvz",
+      "symbol": "$SIC.1700",
+      "name": "SPECIAL TRADE CONTRACTORS",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "SPECIAL TRADE CONTRACTORS",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_bXZr6X",
+      "symbol": "$SIC.5072",
+      "name": "Hardware",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Hardware",
+      "observation_start": "2009-09-30",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_9Xawoy",
+      "symbol": "$SIC.5070",
+      "name": "Hardware, Plumbing & Heating Equipment",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Hardware, Plumbing & Heating Equipment",
+      "observation_start": "2008-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_RzmmPz",
+      "symbol": "$SIC.6794",
+      "name": "Patent Owners & Lessors",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Patent Owners & Lessors",
+      "observation_start": "2008-09-26",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_2gBBRg",
+      "symbol": "$SIC.3360",
+      "name": "Nonferrous Foundries (Castings)",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Nonferrous Foundries (Castings)",
+      "observation_start": "2008-09-30",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_NXnaNg",
+      "symbol": "$SIC.5960",
+      "name": "Nonstore Retailers",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Nonstore Retailers",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_Eg4r4z",
+      "symbol": "$SIC.1389",
+      "name": "Oil & Gas Field Services, nec",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Oil & Gas Field Services, nec",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_2z9dGX",
+      "symbol": "$SIC.1380",
+      "name": "Oil & Gas Field Services",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Oil & Gas Field Services",
+      "observation_start": "2007-09-30",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_Dg2OZX",
+      "symbol": "$SIC.1300",
+      "name": "OIL & GAS EXTRACTION",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "OIL & GAS EXTRACTION",
+      "observation_start": "2007-09-30",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_EgArPX",
+      "symbol": "$SIC.1221",
+      "name": "Bituminous Coal & Lignite - Surface",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Bituminous Coal & Lignite - Surface",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_ogDr2z",
+      "symbol": "$SIC.1220",
+      "name": "Bituminous Coal & Lignite Mining",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Bituminous Coal & Lignite Mining",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_ozMNEy",
+      "symbol": "$SIC.1200",
+      "name": "COAL MINING",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "COAL MINING",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_5X7x7z",
+      "symbol": "$SIC.6022",
+      "name": "State Commercial Banks",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "State Commercial Banks",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_qged9y",
+      "symbol": "$SIC.6020",
+      "name": "Commercial Banks",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Commercial Banks",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_4zrxLg",
+      "symbol": "$SIC.6035",
+      "name": "Federal Savings Institutions",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Federal Savings Institutions",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_0ybNby",
+      "symbol": "$SIC.6399",
+      "name": "Insurance Carriers, nec",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Insurance Carriers, nec",
+      "observation_start": "2009-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_Wy1OeX",
+      "symbol": "$SIC.6390",
+      "name": "Insurance Carriers, nec",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Insurance Carriers, nec",
+      "observation_start": "2009-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_xgQQlg",
+      "symbol": "$SIC.2891",
+      "name": "Adhesives & Sealants",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Adhesives & Sealants",
+      "observation_start": "2008-11-29",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_rg0Pdg",
+      "symbol": "$SIC.6163",
+      "name": "Loan Brokers",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Loan Brokers",
+      "observation_start": "2010-06-30",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_Kz5w0g",
+      "symbol": "$SIC.6160",
+      "name": "Mortgage Bankers & Brokers",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Mortgage Bankers & Brokers",
+      "observation_start": "2009-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_pgV9ky",
+      "symbol": "$SIC.3470",
+      "name": "Metal Services, nec",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Metal Services, nec",
+      "observation_start": "2010-06-30",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_NX6bJX",
+      "symbol": "$SIC.7310",
+      "name": "Advertising",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Advertising",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_2zvbYz",
+      "symbol": "$SIC.3211",
+      "name": "Flat Glass",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Flat Glass",
+      "observation_start": "2012-02-29",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_0XLBxy",
+      "symbol": "$SIC.3210",
+      "name": "Flat Glass",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Flat Glass",
+      "observation_start": "2012-02-29",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_VXWdWz",
+      "symbol": "$SIC.6211",
+      "name": "Security Brokers & Dealers",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Security Brokers & Dealers",
+      "observation_start": "2007-11-30",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_NgYkbz",
+      "symbol": "$SIC.6210",
+      "name": "Security Brokers & Dealers",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Security Brokers & Dealers",
+      "observation_start": "2007-11-30",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_NgPNlz",
+      "symbol": "$SIC.3412",
+      "name": "Metal Barrels, Drums & Pails",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Metal Barrels, Drums & Pails",
+      "observation_start": "2008-10-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_qzEBoy",
+      "symbol": "$SIC.3410",
+      "name": "Metal Cans & Shipping Containers",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Metal Cans & Shipping Containers",
+      "observation_start": "2008-10-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_dXOKbX",
+      "symbol": "$SIC.7363",
+      "name": "Help Supply Services",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Help Supply Services",
+      "observation_start": "2008-12-26",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_Dzo0ly",
+      "symbol": "$SIC.7360",
+      "name": "Personnel Supply Services",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Personnel Supply Services",
+      "observation_start": "2008-12-26",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_nzJnBz",
+      "symbol": "$SIC.3250",
+      "name": "Structural Clay Products",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Structural Clay Products",
+      "observation_start": "2010-06-30",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_bzqrky",
+      "symbol": "$SIC.3533",
+      "name": "Oil & Gas Field Machinery",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Oil & Gas Field Machinery",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_AXGb9g",
+      "symbol": "$SIC.5160",
+      "name": "Chemicals & Allied Products",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Chemicals & Allied Products",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_Pyp0Ky",
+      "symbol": "$SIC.3541",
+      "name": "Machine Tools, Metal Cutting Types",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Machine Tools, Metal Cutting Types",
+      "observation_start": "2009-06-30",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_xgxrNz",
+      "symbol": "$SIC.3540",
+      "name": "Metalworking Machinery",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Metalworking Machinery",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_Bgk5kz",
+      "symbol": "$SIC.5945",
+      "name": "Hobby, Toy & Game Shops",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Hobby, Toy & Game Shops",
+      "observation_start": "2010-01-02",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_agj00z",
+      "symbol": "$SIC.3564",
+      "name": "Blowers & Fans",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Blowers & Fans",
+      "observation_start": "2009-07-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_kyl0by",
+      "symbol": "$SIC.7384",
+      "name": "Photo Finishing Laboratories",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Photo Finishing Laboratories",
+      "observation_start": "2009-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_wy3vAz",
+      "symbol": "$SIC.2761",
+      "name": "Manifold Business Forms",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Manifold Business Forms",
+      "observation_start": "2010-02-28",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_jyRn1y",
+      "symbol": "$SIC.2760",
+      "name": "Manifold Business Forms",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Manifold Business Forms",
+      "observation_start": "2010-02-28",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_0gN12y",
+      "symbol": "$SIC.3620",
+      "name": "Electrical Industrial Apparatus",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Electrical Industrial Apparatus",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_5ydday",
+      "symbol": "$SIC.5040",
+      "name": "Professional & Commercial Equipment",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Professional & Commercial Equipment",
+      "observation_start": "2008-12-27",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_ByKK6y",
+      "symbol": "$SIC.5171",
+      "name": "Petroleum Bulk Stations &Terminals",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Petroleum Bulk Stations &Terminals",
+      "observation_start": "2009-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_mgwray",
+      "symbol": "$SIC.5170",
+      "name": "Petroleum & Petroleum Products",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Petroleum & Petroleum Products",
+      "observation_start": "2008-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_Qz8Evy",
+      "symbol": "$SIC.3861",
+      "name": "Photographic Equipment & Supplies",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Photographic Equipment & Supplies",
+      "observation_start": "2008-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_bXZw6z",
+      "symbol": "$SIC.3860",
+      "name": "Photographic Equipment & Supplies",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Photographic Equipment & Supplies",
+      "observation_start": "2008-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_9Xanoz",
+      "symbol": "$SIC.6162",
+      "name": "Mortgage Bankers & Correspondents",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Mortgage Bankers & Correspondents",
+      "observation_start": "2009-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_Rzm0PX",
+      "symbol": "$SIC.5735",
+      "name": "Record & Prerecorded Tape Stores",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Record & Prerecorded Tape Stores",
+      "observation_start": "2010-01-30",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_2gBMRy",
+      "symbol": "$SIC.3695",
+      "name": "Magnetic & Optical Recording Media",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Magnetic & Optical Recording Media",
+      "observation_start": "2009-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_NXn0Ny",
+      "symbol": "$SIC.1090",
+      "name": "Miscellaneous Metal Ores",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Miscellaneous Metal Ores",
+      "observation_start": "2008-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_Eg4L4g",
+      "symbol": "$SIC.3089",
+      "name": "Plastics Products, nec",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Plastics Products, nec",
+      "observation_start": "2008-12-27",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_2z9rGy",
+      "symbol": "$SIC.2340",
+      "name": "Women's & Children's Undergarments",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Women's & Children's Undergarments",
+      "observation_start": "2009-01-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_Dg26Zg",
+      "symbol": "$SIC.3829",
+      "name": "Measuring & Controlling Devices, nec",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Measuring & Controlling Devices, nec",
+      "observation_start": "2007-09-30",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_EgAMPg",
+      "symbol": "$SIC.3420",
+      "name": "Cutlery, Handtools & Hardware",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Cutlery, Handtools & Hardware",
+      "observation_start": "2008-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_ogDm2X",
+      "symbol": "$SIC.1531",
+      "name": "Operative Builders",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Operative Builders",
+      "observation_start": "2008-09-30",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_ozMKEg",
+      "symbol": "$SIC.1530",
+      "name": "Operative Builders",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Operative Builders",
+      "observation_start": "2008-09-30",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_5X7P7z",
+      "symbol": "$SIC.1500",
+      "name": "GENERAL BUILDING CONTRACTORS",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "GENERAL BUILDING CONTRACTORS",
+      "observation_start": "2008-09-30",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_qgew9z",
+      "symbol": "$SIC.2650",
+      "name": "Paperboard Containers & Boxes",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Paperboard Containers & Boxes",
+      "observation_start": "2008-09-30",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_4zrrLz",
+      "symbol": "$SIC.2531",
+      "name": "Public Building & Related Furniture",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Public Building & Related Furniture",
+      "observation_start": "2007-09-30",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_0yb5bz",
+      "symbol": "$SIC.2530",
+      "name": "Public Building & Related Furniture",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Public Building & Related Furniture",
+      "observation_start": "2007-09-30",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_Wy1Veg",
+      "symbol": "$SIC.7500",
+      "name": "AUTO REPAIR, SERVICES & PARKING",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "AUTO REPAIR, SERVICES & PARKING",
+      "observation_start": "2008-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_xgQnlX",
+      "symbol": "$SIC.5047",
+      "name": "Medical & Hospital Equipment",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Medical & Hospital Equipment",
+      "observation_start": "2008-12-27",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_rg0EdX",
+      "symbol": "$SIC.3341",
+      "name": "Secondary Nonferrous Metals",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Secondary Nonferrous Metals",
+      "observation_start": "2009-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_Kz5W0g",
+      "symbol": "$SIC.3340",
+      "name": "Secondary Nonferrous Metals",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Secondary Nonferrous Metals",
+      "observation_start": "2009-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_pgVnkg",
+      "symbol": "$SIC.6189",
+      "name": "Asset Backed Securities",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Asset Backed Securities",
+      "observation_start": null,
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_NX6YJg",
+      "symbol": "$SIC.6180",
+      "name": "Asset Backed Securities",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Asset Backed Securities",
+      "observation_start": null,
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_2zvrYz",
+      "symbol": "$SIC.3490",
+      "name": "Miscellaneous Fabricated Metal Products",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Miscellaneous Fabricated Metal Products",
+      "observation_start": "2008-06-30",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_0XLKxg",
+      "symbol": "$SIC.3621",
+      "name": "Motors & Generators",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Motors & Generators",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_VXWnWg",
+      "symbol": "$SIC.6021",
+      "name": "National Commercial Banks",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "National Commercial Banks",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_NgYlby",
+      "symbol": "$SIC.3613",
+      "name": "Switchgear & Switchboard Apparatus",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Switchgear & Switchboard Apparatus",
+      "observation_start": "2009-09-30",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_NgPMlX",
+      "symbol": "$SIC.2111",
+      "name": "Cigarettes",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Cigarettes",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_qzEKog",
+      "symbol": "$SIC.2110",
+      "name": "Cigarettes",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Cigarettes",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_dXORbg",
+      "symbol": "$SIC.2780",
+      "name": "Blankbooks & Bookbinding",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Blankbooks & Bookbinding",
+      "observation_start": "2008-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_DzonlX",
+      "symbol": "$SIC.5065",
+      "name": "Electronic Parts & Equipment",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Electronic Parts & Equipment",
+      "observation_start": "2007-09-28",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_nzJxBg",
+      "symbol": "$SIC.3317",
+      "name": "Steel Pipe & Tubes",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Steel Pipe & Tubes",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_bzqnky",
+      "symbol": "$SIC.2522",
+      "name": "Office Furniture, Except Wood",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Office Furniture, Except Wood",
+      "observation_start": "2009-01-03",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_pgVAOy",
+      "symbol": "$SIC.2320",
+      "name": "Men's & Boys' Furnishings",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Men's & Boys' Furnishings",
+      "observation_start": "2007-12-29",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_NX6p6y",
+      "symbol": "$SIC.5961",
+      "name": "Catalog & Mail Order Houses",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Catalog & Mail Order Houses",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_2zvnRz",
+      "symbol": "$SIC.1311",
+      "name": "Crude Petroleum & Natural Gas",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Crude Petroleum & Natural Gas",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_0XLbBy",
+      "symbol": "$SIC.1310",
+      "name": "Crude Petroleum & Natural Gas",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Crude Petroleum & Natural Gas",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_VXWKnX",
+      "symbol": "$SIC.3060",
+      "name": "Fabricated Rubber Products, nec",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Fabricated Rubber Products, nec",
+      "observation_start": "2008-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_NgY22X",
+      "symbol": "$SIC.3440",
+      "name": "Fabricated Structural Metal Products",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Fabricated Structural Metal Products",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_NgPxLg",
+      "symbol": "$SIC.3677",
+      "name": "Electronic Coils & Transformers",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Electronic Coils & Transformers",
+      "observation_start": "2009-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_qzE8QX",
+      "symbol": "$SIC.8744",
+      "name": "Facilities Support Services",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Facilities Support Services",
+      "observation_start": "2012-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_dXOR2g",
+      "symbol": "$SIC.4822",
+      "name": "Telegraph & Other Communications",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Telegraph & Other Communications",
+      "observation_start": "2008-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_DzonZX",
+      "symbol": "$SIC.4820",
+      "name": "Telegraph & Other Communications",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Telegraph & Other Communications",
+      "observation_start": "2008-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_nzJxVg",
+      "symbol": "$SIC.3231",
+      "name": "Products of Purchased Glass",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Products of Purchased Glass",
+      "observation_start": "2010-02-27",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_bzqnxy",
+      "symbol": "$SIC.3230",
+      "name": "Products of Purchased Glass",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Products of Purchased Glass",
+      "observation_start": "2010-02-27",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_AXGx3z",
+      "symbol": "$SIC.200",
+      "name": "AGRICULTURAL PRODUCTION - LIVESTOCK",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "AGRICULTURAL PRODUCTION - LIVESTOCK",
+      "observation_start": "2010-05-29",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_Pyp13g",
+      "symbol": "$SIC.3724",
+      "name": "Aircraft Engines & Engine Parts",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Aircraft Engines & Engine Parts",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_xgxBaz",
+      "symbol": "$SIC.3634",
+      "name": "Electric Housewares & Fans",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Electric Housewares & Fans",
+      "observation_start": "2009-12-18",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_BgkbWy",
+      "symbol": "$SIC.4991",
+      "name": "Hazardous Waste Management",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Hazardous Waste Management",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_agjbRg",
+      "symbol": "$SIC.4990",
+      "name": "Hazardous Waste Management",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Hazardous Waste Management",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_kylb3X",
+      "symbol": "$SIC.3537",
+      "name": "Industrial Trucks & Tractors",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Industrial Trucks & Tractors",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_wy3JMz",
+      "symbol": "$SIC.5812",
+      "name": "Caterers & Banquet Halls",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Caterers & Banquet Halls",
+      "observation_start": "2007-12-29",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_jyRZxy",
+      "symbol": "$SIC.5810",
+      "name": "Eating & Drinking Places",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Eating & Drinking Places",
+      "observation_start": "2007-09-30",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_0gNANy",
+      "symbol": "$SIC.5800",
+      "name": "EATING & DRINKING PLACES",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "EATING & DRINKING PLACES",
+      "observation_start": "2007-09-30",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_5ydOjz",
+      "symbol": "$SIC.5172",
+      "name": "Petroleum Products, nec",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Petroleum Products, nec",
+      "observation_start": "2008-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_ByKDmg",
+      "symbol": "$SIC.4931",
+      "name": "Electric & Other Services Combined",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Electric & Other Services Combined",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_mgwMAz",
+      "symbol": "$SIC.4930",
+      "name": "Combination Utility Services",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Combination Utility Services",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_Qz807z",
+      "symbol": "$SIC.6531",
+      "name": "Real Estate Agents & Managers",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Real Estate Agents & Managers",
+      "observation_start": "2008-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_bXZp4y",
+      "symbol": "$SIC.6530",
+      "name": "Real Estate Agents & Managers",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Real Estate Agents & Managers",
+      "observation_start": "2008-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_9XaYeX",
+      "symbol": "$SIC.7510",
+      "name": "Automotive Rentals, No Drivers",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Automotive Rentals, No Drivers",
+      "observation_start": "2008-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_RzmbEy",
+      "symbol": "$SIC.2732",
+      "name": "Book Printing",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Book Printing",
+      "observation_start": "2009-09-26",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_2gBlez",
+      "symbol": "$SIC.2730",
+      "name": "Books",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Books",
+      "observation_start": "2009-04-30",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_NXn4py",
+      "symbol": "$SIC.6795",
+      "name": "Mineral Royalty Traders",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Mineral Royalty Traders",
+      "observation_start": "2009-06-30",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_Eg4JZz",
+      "symbol": "$SIC.3711",
+      "name": "Motor Vehicles & Car Bodies",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Motor Vehicles & Car Bodies",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_2z9M6z",
+      "symbol": "$SIC.2211",
+      "name": "Broadwoven Fabric Mills, Cotton",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Broadwoven Fabric Mills, Cotton",
+      "observation_start": "2010-05-02",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_Dg23kX",
+      "symbol": "$SIC.2210",
+      "name": "Broadwoven Fabric Mills, Cotton",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Broadwoven Fabric Mills, Cotton",
+      "observation_start": "2010-05-02",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_EgAQdg",
+      "symbol": "$SIC.2842",
+      "name": "Polishes & Sanitation Goods",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Polishes & Sanitation Goods",
+      "observation_start": "2008-06-30",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_ogDK9y",
+      "symbol": "$SIC.2070",
+      "name": "Fats & Oils",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Fats & Oils",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_ozMBky",
+      "symbol": "$SIC.1520",
+      "name": "Residential Building Construction",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Residential Building Construction",
+      "observation_start": "2008-11-30",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_5X7wGX",
+      "symbol": "$SIC.4924",
+      "name": "Natural Gas Distribution",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Natural Gas Distribution",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_qgebJX",
+      "symbol": "$SIC.800",
+      "name": "FORESTRY",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "FORESTRY",
+      "observation_start": "2009-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_4zrnoz",
+      "symbol": "$SIC.6141",
+      "name": "Personal Credit Unions",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Personal Credit Unions",
+      "observation_start": "2007-11-30",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_0ybP8X",
+      "symbol": "$SIC.6140",
+      "name": "Personal Credit Unions",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Personal Credit Unions",
+      "observation_start": "2007-11-30",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_Wy1Dwz",
+      "symbol": "$SIC.3721",
+      "name": "Aircraft",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Aircraft",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_xgQW8z",
+      "symbol": "$SIC.3221",
+      "name": "Glass Containers",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Glass Containers",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_rg0Nwz",
+      "symbol": "$SIC.3220",
+      "name": "Glass & Glassware, Pressed or Blown",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Glass & Glassware, Pressed or Blown",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_Kz55rz",
+      "symbol": "$SIC.2030",
+      "name": "Preserved Fruits & Vegetables",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Preserved Fruits & Vegetables",
+      "observation_start": "2008-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_pgVoOX",
+      "symbol": "$SIC.7200",
+      "name": "PERSONAL SERVICES",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "PERSONAL SERVICES",
+      "observation_start": "2008-04-30",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_NX686y",
+      "symbol": "$SIC.7350",
+      "name": "Misc. Equipment Rental & Leasing",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Misc. Equipment Rental & Leasing",
+      "observation_start": "2008-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_2zvaRX",
+      "symbol": "$SIC.3826",
+      "name": "Analytical Instruments",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Analytical Instruments",
+      "observation_start": "2007-10-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_0XLMBz",
+      "symbol": "$SIC.7330",
+      "name": "Mailing, Reproductive, Stenographic",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Mailing, Reproductive, Stenographic",
+      "observation_start": "2009-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_VXWrng",
+      "symbol": "$SIC.2052",
+      "name": "Cookies & Crackers",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Cookies & Crackers",
+      "observation_start": "2008-12-27",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_NgYq2g",
+      "symbol": "$SIC.2050",
+      "name": "Bakery Products",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Bakery Products",
+      "observation_start": "2008-12-27",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_NgPLLg",
+      "symbol": "$SIC.7948",
+      "name": "Racing, Including Track Operation",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Racing, Including Track Operation",
+      "observation_start": "2008-11-30",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_qzENQy",
+      "symbol": "$SIC.7940",
+      "name": "Commercial Sports",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Commercial Sports",
+      "observation_start": "2008-11-30",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_dXOv2g",
+      "symbol": "$SIC.2060",
+      "name": "Sugar & Confectionery Products",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Sugar & Confectionery Products",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_DzowZz",
+      "symbol": "$SIC.6361",
+      "name": "Title Insurance",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Title Insurance",
+      "observation_start": "2008-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_nzJNVz",
+      "symbol": "$SIC.6360",
+      "name": "Title Insurance",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Title Insurance",
+      "observation_start": "2008-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_bzqNxy",
+      "symbol": "$SIC.6770",
+      "name": "Blank Checks",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Blank Checks",
+      "observation_start": "2009-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_AXGK3X",
+      "symbol": "$SIC.3825",
+      "name": "Instruments to Measure Electricity",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Instruments to Measure Electricity",
+      "observation_start": "2008-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_PypN3X",
+      "symbol": "$SIC.3411",
+      "name": "Metal Cans",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Metal Cans",
+      "observation_start": "2008-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_xgxKay",
+      "symbol": "$SIC.3679",
+      "name": "Electronic Components, nec",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Electronic Components, nec",
+      "observation_start": "2009-06-28",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_BgkNWy",
+      "symbol": "$SIC.2015",
+      "name": "Poultry Slaughtering & Processing",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Poultry Slaughtering & Processing",
+      "observation_start": "2008-09-27",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_agjmRy",
+      "symbol": "$SIC.6411",
+      "name": "Insurance Agents, Brokers & Service",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Insurance Agents, Brokers & Service",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_kylN3X",
+      "symbol": "$SIC.6410",
+      "name": "Insurance Agents, Brokers & Service",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Insurance Agents, Brokers & Service",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_wy3AMX",
+      "symbol": "$SIC.6400",
+      "name": "INSURANCE AGENTS, BROKERS & SERVICE",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "INSURANCE AGENTS, BROKERS & SERVICE",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_jyRYxz",
+      "symbol": "$SIC.4513",
+      "name": "Air Courier Services",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Air Courier Services",
+      "observation_start": "2008-05-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_0gN6Ng",
+      "symbol": "$SIC.3843",
+      "name": "Dental Equipment & Supplies",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Dental Equipment & Supplies",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_5ydmjg",
+      "symbol": "$SIC.3842",
+      "name": "Surgical Appliances & Supplies",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Surgical Appliances & Supplies",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_ByKNmz",
+      "symbol": "$SIC.4581",
+      "name": "Airports, Flying Fields & Services",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Airports, Flying Fields & Services",
+      "observation_start": "2010-06-30",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_mgwmAz",
+      "symbol": "$SIC.4580",
+      "name": "Airports, Flying Fields & Services",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Airports, Flying Fields & Services",
+      "observation_start": "2010-06-30",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_Qz8N7g",
+      "symbol": "$SIC.3990",
+      "name": "Miscellaneous Manufacturers",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Miscellaneous Manufacturers",
+      "observation_start": "2007-09-30",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_bXZq4g",
+      "symbol": "$SIC.5531",
+      "name": "Auto & Home Supply Stores",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Auto & Home Supply Stores",
+      "observation_start": "2008-08-30",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_9XameX",
+      "symbol": "$SIC.5530",
+      "name": "Auto & Home Supply Stores",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Auto & Home Supply Stores",
+      "observation_start": "2008-08-30",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_RzmNEy",
+      "symbol": "$SIC.1731",
+      "name": "Electrical Work",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Electrical Work",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_2gBpez",
+      "symbol": "$SIC.1730",
+      "name": "Electrical Work",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Electrical Work",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_NXndpy",
+      "symbol": "$SIC.8011",
+      "name": "Offices & Clinics of Medical Doctors",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Offices & Clinics of Medical Doctors",
+      "observation_start": "2008-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_Eg4NZz",
+      "symbol": "$SIC.8010",
+      "name": "Offices & Clinics of Medical Doctors",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Offices & Clinics of Medical Doctors",
+      "observation_start": "2008-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_2z9A6z",
+      "symbol": "$SIC.6351",
+      "name": "Surety Insurance",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Surety Insurance",
+      "observation_start": "2008-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_Dg2Nkg",
+      "symbol": "$SIC.6350",
+      "name": "Surety Insurance",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Surety Insurance",
+      "observation_start": "2008-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_EgAwdz",
+      "symbol": "$SIC.6321",
+      "name": "Accident & Health Insurance",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Accident & Health Insurance",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_ogDd9g",
+      "symbol": "$SIC.7361",
+      "name": "Employment Agencies",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Employment Agencies",
+      "observation_start": "2009-04-30",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_ozMVky",
+      "symbol": "$SIC.3050",
+      "name": "Hose & Belting & Gaskets & Packing",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Hose & Belting & Gaskets & Packing",
+      "observation_start": "2009-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_5X7MGy",
+      "symbol": "$SIC.3821",
+      "name": "Laboratory Apparatus & Furniture",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Laboratory Apparatus & Furniture",
+      "observation_start": "2010-01-02",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_qgemJg",
+      "symbol": "$SIC.2631",
+      "name": "Paperboard Mills",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Paperboard Mills",
+      "observation_start": "2009-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_4zrNoz",
+      "symbol": "$SIC.2630",
+      "name": "Paperboard Mills",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Paperboard Mills",
+      "observation_start": "2009-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_0yb98z",
+      "symbol": "$SIC.2273",
+      "name": "Carpets & Rugs",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Carpets & Rugs",
+      "observation_start": "2008-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_Wy1mwy",
+      "symbol": "$SIC.2270",
+      "name": "Carpets & Rugs",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Carpets & Rugs",
+      "observation_start": "2008-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_xgQk8z",
+      "symbol": "$SIC.2821",
+      "name": "Plastics Materials & Resins",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Plastics Materials & Resins",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_rg04wg",
+      "symbol": "$SIC.2820",
+      "name": "Plastics Materials & Synthetics",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Plastics Materials & Synthetics",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_Kz5mrz",
+      "symbol": "$SIC.7372",
+      "name": "Prepackaged Software",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Prepackaged Software",
+      "observation_start": "2007-11-30",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_pgVdOz",
+      "symbol": "$SIC.5045",
+      "name": "Computers, Peripherals & Software",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Computers, Peripherals & Software",
+      "observation_start": "2009-01-03",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_NX6k6z",
+      "symbol": "$SIC.6799",
+      "name": "Investors, nec",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Investors, nec",
+      "observation_start": "2009-09-30",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_2zv0Rg",
+      "symbol": "$SIC.6153",
+      "name": "Short Term Business Credit",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Short Term Business Credit",
+      "observation_start": "2009-09-30",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_0XL1Bz",
+      "symbol": "$SIC.3651",
+      "name": "Household Audio & Video Equipment",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Household Audio & Video Equipment",
+      "observation_start": "2008-06-30",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_VXWNng",
+      "symbol": "$SIC.3650",
+      "name": "Household Audio & Video Equipment",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Household Audio & Video Equipment",
+      "observation_start": "2008-06-30",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_NgYw2z",
+      "symbol": "$SIC.3942",
+      "name": "Dolls & Stuffed Toys",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Dolls & Stuffed Toys",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_NgPwLy",
+      "symbol": "$SIC.8200",
+      "name": "EDUCATIONAL SERVICES",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "EDUCATIONAL SERVICES",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_qzEQQz",
+      "symbol": "$SIC.7829",
+      "name": "Motion Picture Distribution Services",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Motion Picture Distribution Services",
+      "observation_start": null,
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_dXOZ2g",
+      "symbol": "$SIC.7359",
+      "name": "Misc. Equipment Rental & Leasing, nec",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Misc. Equipment Rental & Leasing, nec",
+      "observation_start": "2008-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_DzopZy",
+      "symbol": "$SIC.3531",
+      "name": "Construction Machinery",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Construction Machinery",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_nzJ5VX",
+      "symbol": "$SIC.7340",
+      "name": "Services to Buildings",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Services to Buildings",
+      "observation_start": "2008-10-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_bzqpxX",
+      "symbol": "$SIC.3442",
+      "name": "Metal Doors, Sash & Trim",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Metal Doors, Sash & Trim",
+      "observation_start": "2009-09-30",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_pgVd5z",
+      "symbol": "$SIC.7600",
+      "name": "MISCELLANEOUS REPAIR SERVICES",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "MISCELLANEOUS REPAIR SERVICES",
+      "observation_start": "2010-05-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_NX6kjz",
+      "symbol": "$SIC.3822",
+      "name": "Environmental Controls",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Environmental Controls",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_2zv08g",
+      "symbol": "$SIC.7331",
+      "name": "Direct Mail Advertising Services",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Direct Mail Advertising Services",
+      "observation_start": "2009-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_0XL1qz",
+      "symbol": "$SIC.2430",
+      "name": "Millwork, Plywood, & Structural Members",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Millwork, Plywood, & Structural Members",
+      "observation_start": "2008-06-30",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_VXWNVg",
+      "symbol": "$SIC.3728",
+      "name": "Aircraft Parts & Equipment, nec",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Aircraft Parts & Equipment, nec",
+      "observation_start": "2007-09-30",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_NgYwNz",
+      "symbol": "$SIC.3827",
+      "name": "Optical Instruments & Lenses",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Optical Instruments & Lenses",
+      "observation_start": "2009-06-30",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_NgPwEy",
+      "symbol": "$SIC.3730",
+      "name": "Ship & Boat Building & Repairing",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Ship & Boat Building & Repairing",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_qzEQ6z",
+      "symbol": "$SIC.4932",
+      "name": "Gas & Other Services Combined",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Gas & Other Services Combined",
+      "observation_start": "2008-09-30",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_dXOZdg",
+      "symbol": "$SIC.3669",
+      "name": "Communications Equipment, nec",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Communications Equipment, nec",
+      "observation_start": "2008-09-30",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_Dzopvy",
+      "symbol": "$SIC.7997",
+      "name": "Membership Sports & Recreation Clubs",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Membership Sports & Recreation Clubs",
+      "observation_start": "2008-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_nzJ5mX",
+      "symbol": "$SIC.7812",
+      "name": "Motion Picture & Video Production",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Motion Picture & Video Production",
+      "observation_start": "2008-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_bzqpAX",
+      "symbol": "$SIC.7810",
+      "name": "Motion Picture Production & Services",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Motion Picture Production & Services",
+      "observation_start": "2008-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_AXGn0g",
+      "symbol": "$SIC.3812",
+      "name": "Search & Navigation Equipment",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Search & Navigation Equipment",
+      "observation_start": "2007-12-29",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_Pypmvg",
+      "symbol": "$SIC.3810",
+      "name": "Search & Navigation Equipment",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Search & Navigation Equipment",
+      "observation_start": "2007-12-29",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_xgxVoz",
+      "symbol": "$SIC.4412",
+      "name": "Deep Sea Foreign Transport of Freight",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Deep Sea Foreign Transport of Freight",
+      "observation_start": "2008-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_BgkoYg",
+      "symbol": "$SIC.4410",
+      "name": "Deep Sea Foreign Transport of Freight",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Deep Sea Foreign Transport of Freight",
+      "observation_start": "2008-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_agjO4X",
+      "symbol": "$SIC.4400",
+      "name": "WATER TRANSPORTATION",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "WATER TRANSPORTATION",
+      "observation_start": "2007-11-30",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_kylJqX",
+      "symbol": "$SIC.4610",
+      "name": "Pipelines, Except Natural Gas",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Pipelines, Except Natural Gas",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_wy3m8X",
+      "symbol": "$SIC.4600",
+      "name": "PIPELINES, EXCEPT NATURAL GAS",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "PIPELINES, EXCEPT NATURAL GAS",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_jyR1az",
+      "symbol": "$SIC.2033",
+      "name": "Canned Fruits & Vegetables",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Canned Fruits & Vegetables",
+      "observation_start": "2009-04-30",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_0gNGEX",
+      "symbol": "$SIC.5180",
+      "name": "Beer, Wine & Distilled Beverages",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Beer, Wine & Distilled Beverages",
+      "observation_start": "2009-06-30",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_5ydvRX",
+      "symbol": "$SIC.4011",
+      "name": "Railroads Line-Haul Operating",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Railroads Line-Haul Operating",
+      "observation_start": "2007-12-28",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_ByKMVX",
+      "symbol": "$SIC.2511",
+      "name": "Wood Household Furniture",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Wood Household Furniture",
+      "observation_start": "2009-11-28",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_mgw93z",
+      "symbol": "$SIC.6099",
+      "name": "Functions Related to Deposit Banking",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Functions Related to Deposit Banking",
+      "observation_start": "2008-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_Qz8kpX",
+      "symbol": "$SIC.6090",
+      "name": "Functions Closely Related to Banking",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Functions Closely Related to Banking",
+      "observation_start": "2008-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_bXZA1g",
+      "symbol": "$SIC.7311",
+      "name": "Advertising Agencies",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Advertising Agencies",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_9XaNDz",
+      "symbol": "$SIC.5141",
+      "name": "Groceries, General Line",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Groceries, General Line",
+      "observation_start": "2009-08-01",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_Rzm1Lz",
+      "symbol": "$SIC.1381",
+      "name": "Drilling Oil & Gas Wells",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Drilling Oil & Gas Wells",
+      "observation_start": "2007-09-30",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_2gBA8y",
+      "symbol": "$SIC.3281",
+      "name": "Cut Stone & Stone Products",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Cut Stone & Stone Products",
+      "observation_start": "2010-09-30",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_NXnJlX",
+      "symbol": "$SIC.3280",
+      "name": "Cut Stone & Stone Products",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Cut Stone & Stone Products",
+      "observation_start": "2010-09-30",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_Eg48Mg",
+      "symbol": "$SIC.1382",
+      "name": "Oil & Gas Exploration Services",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Oil & Gas Exploration Services",
+      "observation_start": "2009-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_2z93Og",
+      "symbol": "$SIC.4522",
+      "name": "Air Transportation, Nonscheduled",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Air Transportation, Nonscheduled",
+      "observation_start": "2008-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_Dg29oy",
+      "symbol": "$SIC.4520",
+      "name": "Air Transportation, Nonscheduled",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Air Transportation, Nonscheduled",
+      "observation_start": "2008-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_EgAA8g",
+      "symbol": "$SIC.3663",
+      "name": "Radio & TV Communications Equipment",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Radio & TV Communications Equipment",
+      "observation_start": "2007-09-30",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_ogD7vy",
+      "symbol": "$SIC.3713",
+      "name": "Truck & Bus Bodies",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Truck & Bus Bodies",
+      "observation_start": "2009-12-26",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_ozM2Ny",
+      "symbol": "$SIC.1540",
+      "name": "Nonresidential Building Construction",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Nonresidential Building Construction",
+      "observation_start": "2009-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_5X7rPg",
+      "symbol": "$SIC.3572",
+      "name": "Computer Storage Devices",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Computer Storage Devices",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_qge6bX",
+      "symbol": "$SIC.3260",
+      "name": "Pottery & Related Products",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Pottery & Related Products",
+      "observation_start": "2009-12-26",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_4zrvNz",
+      "symbol": "$SIC.5651",
+      "name": "Family Clothing Stores",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Family Clothing Stores",
+      "observation_start": "2008-01-26",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_0yb1Vz",
+      "symbol": "$SIC.5650",
+      "name": "Family Clothing Stores",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Family Clothing Stores",
+      "observation_start": "2008-01-26",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_Wy199y",
+      "symbol": "$SIC.4941",
+      "name": "Water Supply",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Water Supply",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_xgQ2bX",
+      "symbol": "$SIC.4940",
+      "name": "Water Supply",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Water Supply",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_rg09KX",
+      "symbol": "$SIC.100",
+      "name": "AGRICULTURAL PRODUCTION - CROPS",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "AGRICULTURAL PRODUCTION - CROPS",
+      "observation_start": "2008-12-26",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_Kz5Bxy",
+      "symbol": "$SIC.2721",
+      "name": "Periodicals",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Periodicals",
+      "observation_start": "2009-06-30",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_pgV25g",
+      "symbol": "$SIC.2720",
+      "name": "Periodicals",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Periodicals",
+      "observation_start": "2009-06-30",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_NX63jz",
+      "symbol": "$SIC.3910",
+      "name": "Jewelry, Silverware & Plated Ware",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Jewelry, Silverware & Plated Ware",
+      "observation_start": "2010-06-30",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_2zvP8g",
+      "symbol": "$SIC.4833",
+      "name": "Television Broadcasting Stations",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Television Broadcasting Stations",
+      "observation_start": "2007-12-30",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_0XLeqz",
+      "symbol": "$SIC.6111",
+      "name": "Federal & Federally Sponsored Credit Agencies",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Federal & Federally Sponsored Credit Agencies",
+      "observation_start": "2009-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_VXW2Vg",
+      "symbol": "$SIC.6110",
+      "name": "Federal & Federally Sponsored Credit Agencies",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Federal & Federally Sponsored Credit Agencies",
+      "observation_start": "2009-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_NgYrNX",
+      "symbol": "$SIC.2611",
+      "name": "Pulp Mills",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Pulp Mills",
+      "observation_start": "2009-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_NgP2Ez",
+      "symbol": "$SIC.2610",
+      "name": "Pulp Mills",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Pulp Mills",
+      "observation_start": "2009-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_qzEA6z",
+      "symbol": "$SIC.2711",
+      "name": "Newspapers",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Newspapers",
+      "observation_start": "2008-12-28",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_dXO2dg",
+      "symbol": "$SIC.2710",
+      "name": "Newspapers",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Newspapers",
+      "observation_start": "2008-12-28",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_Dzoqvg",
+      "symbol": "$SIC.7320",
+      "name": "Credit Reporting & Collection",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Credit Reporting & Collection",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_nzJAmX",
+      "symbol": "$SIC.5020",
+      "name": "Furniture & Home Furnishings",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Furniture & Home Furnishings",
+      "observation_start": "2011-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_bzq6Ay",
+      "symbol": "$SIC.2451",
+      "name": "Mobile Homes",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Mobile Homes",
+      "observation_start": "2010-03-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_PypVvX",
+      "symbol": "$SIC.2910",
+      "name": "Petroleum Refining",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Petroleum Refining",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_xgxOoy",
+      "symbol": "$SIC.6172",
+      "name": "Finance Lessors",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Finance Lessors",
+      "observation_start": "2008-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_BgkEYz",
+      "symbol": "$SIC.6170",
+      "name": "Finance Lessors",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Finance Lessors",
+      "observation_start": "2008-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_agjP4z",
+      "symbol": "$SIC.8711",
+      "name": "Engineering Services",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Engineering Services",
+      "observation_start": "2008-09-28",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_kylOqz",
+      "symbol": "$SIC.8710",
+      "name": "Engineering & Architectural Services",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Engineering & Architectural Services",
+      "observation_start": "2008-09-28",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_wy398X",
+      "symbol": "$SIC.3480",
+      "name": "Ordnance & Accessories, nec",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Ordnance & Accessories, nec",
+      "observation_start": "2008-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_jyRQaz",
+      "symbol": "$SIC.3743",
+      "name": "Railroad Equipment",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Railroad Equipment",
+      "observation_start": "2008-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_0gN2Eg",
+      "symbol": "$SIC.3740",
+      "name": "Railroad Equipment",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Railroad Equipment",
+      "observation_start": "2008-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_5ydVRX",
+      "symbol": "$SIC.3523",
+      "name": "Farm Machinery & Equipment",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Farm Machinery & Equipment",
+      "observation_start": "2007-10-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_ByKAVX",
+      "symbol": "$SIC.5110",
+      "name": "Paper & Paper Products",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Paper & Paper Products",
+      "observation_start": "2008-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_mgwE3z",
+      "symbol": "$SIC.2040",
+      "name": "Grain Mill Products",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Grain Mill Products",
+      "observation_start": "2007-12-29",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_Qz83pX",
+      "symbol": "$SIC.2731",
+      "name": "Book Publishing",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Book Publishing",
+      "observation_start": "2009-04-30",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_bXZ21X",
+      "symbol": "$SIC.7830",
+      "name": "Motion Picture Theaters",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Motion Picture Theaters",
+      "observation_start": "2009-01-01",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_9Xa1DX",
+      "symbol": "$SIC.3443",
+      "name": "Fabricated Plate Work (Boiler Shops)",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Fabricated Plate Work (Boiler Shops)",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_RzmoLg",
+      "symbol": "$SIC.3448",
+      "name": "Prefabricated Metal Buildings",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Prefabricated Metal Buildings",
+      "observation_start": "2009-11-01",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_2gBo8X",
+      "symbol": "$SIC.3751",
+      "name": "Motorcycles, Bicycles & Parts",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Motorcycles, Bicycles & Parts",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_NXnZlX",
+      "symbol": "$SIC.3750",
+      "name": "Motorcycles, Bicycles & Parts",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Motorcycles, Bicycles & Parts",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_Eg4aMX",
+      "symbol": "$SIC.6282",
+      "name": "Investment Advice",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Investment Advice",
+      "observation_start": "2007-09-30",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_2z9VOy",
+      "symbol": "$SIC.6280",
+      "name": "Security & Commodity Services",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Security & Commodity Services",
+      "observation_start": "2007-09-30",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_Dg2aoy",
+      "symbol": "$SIC.6029",
+      "name": "Commercial Banks, nec",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Commercial Banks, nec",
+      "observation_start": "2009-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_EgAO8z",
+      "symbol": "$SIC.5122",
+      "name": "Drugs, Proprietaries & Sundries",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Drugs, Proprietaries & Sundries",
+      "observation_start": "2007-09-30",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_ogDqvX",
+      "symbol": "$SIC.5120",
+      "name": "Drugs, Proprietaries & Sundries",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Drugs, Proprietaries & Sundries",
+      "observation_start": "2007-09-30",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_ozM1Nz",
+      "symbol": "$SIC.8731",
+      "name": "Commercial Physical Research",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Commercial Physical Research",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_5X7aPy",
+      "symbol": "$SIC.3944",
+      "name": "Games, Toys & Children's Vehicles",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Games, Toys & Children's Vehicles",
+      "observation_start": "2008-12-28",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_qge0by",
+      "symbol": "$SIC.8093",
+      "name": "Specialty Outpatient Clinics, nec",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Specialty Outpatient Clinics, nec",
+      "observation_start": "2009-09-30",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_4zrZNz",
+      "symbol": "$SIC.8090",
+      "name": "Health & Allied Services, nec",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Health & Allied Services, nec",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_0ybaVz",
+      "symbol": "$SIC.4955",
+      "name": "Hazardous Waste Management",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Hazardous Waste Management",
+      "observation_start": "2008-12-31",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_Wy1n9g",
+      "symbol": "$SIC.3571",
+      "name": "Electronic Computers",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Electronic Computers",
+      "observation_start": "2007-09-29",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_xgQbbX",
+      "symbol": "$SIC.3845",
+      "name": "Electromedical Equipment",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Electromedical Equipment",
+      "observation_start": "2007-09-28",
+      "observation_end": "2024-11-01"
+    },
+    {
+      "id": "ind_rg0aKX",
+      "symbol": "$SIC.4923",
+      "name": "Gas Transmission & Distribution",
+      "continent": "North America",
+      "country": "United States",
+      "sector": "Gas Transmission & Distribution",
+      "observation_start": "2007-12-31",
+      "observation_end": "2024-11-01"
+    }
+  ],
+  "next_page": null
+}

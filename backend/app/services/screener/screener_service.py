@@ -139,3 +139,26 @@ class FlexibleScreener:
             key=get_sort_key,
             reverse=(order.lower() == "desc")
         )
+
+    def _process_industry_filter(self, sic_code: str, criteria: Dict) -> bool:
+        """산업 코드 필터링 로직"""
+        if not sic_code:
+            return True
+
+        sic_hierarchy = SIC_HIERARCHY["sic_codes"]
+        
+        # 대분류 체크
+        division_code = sic_code[:2]
+        if division_code in sic_hierarchy:
+            division = sic_hierarchy[division_code]
+            
+            # 중분류 체크
+            major_group_code = sic_code[:4]
+            if major_group_code in division["subcategories"]:
+                major_group = division["subcategories"][major_group_code]
+                
+                # 세부 산업 체크
+                if sic_code in major_group["subcategories"]:
+                    return True
+        
+        return False
